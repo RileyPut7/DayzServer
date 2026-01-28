@@ -1,0 +1,599 @@
+---------------------------------------------
+Log F:\SteamLibrary\steamapps\common\DayZServer\ServerProfile\script_2026-01-16_15-35-40.log started at 16.01. 15:35:40
+
+SCRIPT       : Loaded Core (Client PBO) Version 2.4.2:stable
+SCRIPT       : Loaded Hover Loot (Client PBO) Version 1.0.2:stable
+SCRIPT       : Registered 392 temporary action enum(s), UAN==392
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\struct\lbconfigtype.c,3": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\config\loader\lbconfigmanager.c,68": FIX-ME: Syntax error
+SCRIPT    (W): @"SpawnSelect/Scripts/3_Game/dayzgame.c,14": FIX-ME: Unmatched brackets detected!
+SCRIPT    (W): @"SpawnSelect/Scripts/3_Game/dayzgame.c,15": FIX-ME: Unmatched brackets detected!
+SCRIPT    (W): @"SchanaModGlobalChat/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\schana_chat_server_settings.c.c,102": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SchanaModGlobalChat/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\schana_chat_settings.c.c,110": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_settings.c.c,8": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_settings.c.c,22": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_settings.c.c,41": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_server_settings.c.c,65": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,11": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,12": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,13": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,14": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_positions.c.c,5": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_client_display_settings.c.c,37": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,18": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,69": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,119": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,122": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,194": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,225": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,280": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,325": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,326": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,327": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,335": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,354": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,355": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,356": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,369": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_client.c.c,11": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_client.c.c,12": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_client.c.c,13": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_settings.c.c,9": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_settings.c.c,10": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_settings.c.c,47": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_settings.c.c,67": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,13": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_server.c.c,85": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_server.c.c,122": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_server.c.c,132": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"BaseBuildingPlus/scripts/3_Game/bbpconfig.c,143": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"BasicMap/scripts/3_Game/ jgpspgr4 \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt1.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/ jgpspgr4 \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt1.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/ jgpspgr4 \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt1.c,93": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/ jgpspgr4 \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt1.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/ jgpspgr4 \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt1.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/ jgpspgr4 \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt1.c,132": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/ jgpspgr4 \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt1.c,305": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/ jgpspgr4 \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt1.c,447": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/ jgpspgr4 \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt1.c,453": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\models\markerscacheinterface.c,5": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\models\markerscacheinterface.c,7": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\models\mapmarkerscache.c,26": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\models\mapmarkerscache.c,46": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/vanillaplusplus.c,36": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/vanillaplusplus.c,106": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/vanillaplusplus.c,118": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/vanillaplusplus.c,134": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_client.c.c,40": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_client.c.c,40": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_client.c.c,40": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_client.c.c,57": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_server.c.c,21": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_server.c.c,21": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_server.c.c,21": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_server.c.c,43": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_server.c.c,117": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,74": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,74": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,74": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,95": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,95": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,95": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,106": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,106": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,106": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,120": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,120": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,120": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,133": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,133": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,133": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,162": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,162": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,162": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,220": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c,225": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,39": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,39": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,39": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,53": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,53": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,53": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,68": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,68": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,68": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,81": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_client.c.c,81": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\models\vppmapconfig.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\basicmapcontroller.c.c,3": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\basicmapcontroller.c.c,14": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"BasicMap/scripts/3_Game/ owdfqhcg \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt2.c,556": FIX-ME: Overriding function 'LockControls' but not marked as 'override'
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_positions.c.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_positions.c.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,50": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,50": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,50": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,66": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,323": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,323": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c,323": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\clientmarkerscache.c,15": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\gui\helper\lbwidgetutils.c,39": FIX-ME: Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT       : Started LBLogger at: $profile:LBmaster_16_1_2026_15_35_41.log
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : DZM_Projects Map! by DaOne
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actiongivesalineself.c,44": condition with no body?
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifakself.c,42": condition with no body?
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifaktarget.c,46": condition with no body?
+SCRIPT    (W): @"StormZz_Zoom/Scripts/4_World/oldzoom.c,10": Missing ';' at the end of line
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarylocker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\guncase_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\icebox_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigsafe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\armoreddoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\armoreddoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\locker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallcrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\tinycrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\paragon_largegreenhouse.c,133": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallsafe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallsafe_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigtent_colorbase.c,139": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigtent_colorbase.c,144": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\container_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\container_colorbase.c,147": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\reinforceddoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\reinforceddoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,201": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,201": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,201": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,215": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,215": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,215": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,228": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,228": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,228": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,244": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,244": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,244": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,260": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,260": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,260": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\iceceramfreezer_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\safe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\weaponslocker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\gearstand_case_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarycrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarycrate_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\compound_gate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\compound_gate_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"UnlimitedStamina/4_World/classes\staminahandler.c,3": FIX-ME: Overriding function 'Update' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\mediumcrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\dumpster_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifaktarget.c,31": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bunkerdoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bunkerdoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\graffitican_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\fridge_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\doubleguncase_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actiongivesalineself.c,32": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\paragon_greenhouse.c,133": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifakself.c,31": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,32": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,33": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,34": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,35": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,181": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,487": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth.c,10": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"UnlimitedStamina/5_Mission/missiongameplay.c,5": Missing ';' at the end of line
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\vppmapmenu.c,3": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\vppmapmenu.c,4": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\vppmapmenu.c,5": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,277": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,277": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,277": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,17": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,17": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,17": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,22": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,22": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,22": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\missionserver.c,283": FIX-ME: Overriding function 'GetServerName' but not marked as 'override'
+SCRIPT    (W): @"SchanaModGlobalChat/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missionserver.c.c,9": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SchanaModGlobalChat/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missionserver.c.c,9": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SchanaModGlobalChat/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missionserver.c.c,9": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,202": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,202": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,202": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,210": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,210": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,210": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,21": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,21": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,21": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,29": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,29": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,29": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,45": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,45": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,45": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\markerslistadapter.c,245": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\markerslistadapter.c,249": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missionserver.c.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missionserver.c.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missionserver.c.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SchanaModGlobalChat/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missiongameplay.c.c,15": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SchanaModGlobalChat/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missiongameplay.c.c,15": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SchanaModGlobalChat/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missiongameplay.c.c,15": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,434": Possible variable name conflict 'SpawnRarity'
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\vppmapmenu.c,161": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,36": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,36": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,36": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missiongameplay.c.c,14": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missiongameplay.c.c,14": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SimpleModParty/Mission/mission\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\missiongameplay.c.c,14": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_kothevent.c,663": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/spawnmenu.c,79": Possible variable name conflict 'm_Conf'
+SCRIPT       : [MerkZone KOTH] Loaded!
+SCRIPT       : [SERVER :: Vanilla++ AdminTools Plugins Registering]
+SCRIPT       : [MPG_Spawner] Logger Init
+SCRIPT       : [MPG_Spawner] Logger Create Log File
+SCRIPT       : [::FormatErrorEx] :: [INFO] :: Got hostname 'choxprac' from 'serverdz.cfg'
+SCRIPT       : [BasicMap] Init Server
+SCRIPT       : [BBP] 'BBP_Settings' found, loading...
+SCRIPT       : [SimpleParty] BasicMap Register RPCs
+SCRIPT       : [SimpleParty] BasicMap Server Init
+SCRIPT       : string dirtyName = 'choxprac'
+SCRIPT       : [MPG_Spawner] Init
+SCRIPT       : [MPG_Spawner] config found, loading...
+SCRIPT       : [MPG_Spawner] Start configs validation
+SCRIPT       : [MPG_Spawner] Configs validation finished
+SCRIPT       : [MerkZone KOTH] Initialized!
+SCRIPT       : [MerkZone KOTH] Waiting for 600 seconds before running cleanup script and attempting to start first KOTH.
+SCRIPT       : [TabletHacking] OnInit
+SCRIPT       : [TabletHacking] Init
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [SchanaChat] OnInit
+SCRIPT       : [SimpleParty] OnInit
+SCRIPT       : [SimpleParty] Server Init 1.3.5
+SCRIPT       : [SimpleParty] PartyMarker Server Init
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'choxprac'
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT    (E): [EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script called!
+SCRIPT       : [MerkZone KOTH] Performing server startup cleanup!
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located a previous KOTH flag! Deleting 'mz_KOTHflag' at position (<144.312469, 319.646271, 8073.837402>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script successful!
+SCRIPT       : [SchanaChat] Settings Requested By fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "Survivor" (steamId=76561198271678203) connected to server!
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<df2f7fc0>
+SCRIPT       : [Logout]: New player fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= with logout time 15
+SCRIPT       : Player "Survivor" (steamid=76561198271678203) initiated disconnect process...
+SCRIPT       : Player "Survivor" (steamid=76561198271678203) disconnected early from server (EXIT NOW).
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : ~DayZGame()
+SCRIPT    (E): NULL pointer to instance
+Class:      'SimplePartyManagerServer'
+Function: '~SimplePartyManagerServer'
+Stack trace:
+SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c:31 Function ~SimplePartyManagerServer
+SCRIPT    (E): NULL pointer to instance
+Class:      'SimplePartyMarkerManagerServer'
+Function: '~SimplePartyMarkerManagerServer'
+Stack trace:
+SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_server.c.c:14 Function ~SimplePartyMarkerManagerServer
+SCRIPT    (E): NULL pointer to instance. Variable '#return' during call 'CGame.IsClient'
+Class:      'SimplePartyBasicMapAPI'
+Function: '~SimplePartyBasicMapAPI'
+Stack trace:
+SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c:45 Function ~SimplePartyBasicMapAPI

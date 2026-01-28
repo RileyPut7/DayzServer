@@ -1,0 +1,28 @@
+---------------------------------------------
+Log F:\SteamLibrary\steamapps\common\DayZServer\ServerProfile\script_2026-01-16_12-09-47.log started at 16.01. 12:09:47
+
+SCRIPT       : Registered 379 temporary action enum(s), UAN==379
+SCRIPT    (W): @"BaseBuildingPlus/scripts/3_Game/bbpconfig.c,143": FIX-ME: Unexpected statement 'ref'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : [SERVER :: Vanilla++ AdminTools Plugins Registering]
+SCRIPT       : [VPPAdminTools] Error parsing credentials.txt! Please input a valid password, with no // at the start of the line!
+SCRIPT       : [::FormatErrorEx] :: [INFO] :: Got hostname 'choxprac' from 'serverdz.cfg'
+SCRIPT       : [BBP] 'BBP_Settings' found, loading...
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'choxprac'
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [VPPAT] Player "Survivor" (steamId=76561198271678203) connected to server!
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<966d2960>
+SCRIPT       : string log =  '2026/1/16 |  [VPPAdminTools] There is no password set! The tool will not function correctly. Please follow instructions found within: profile/VPPAdminTools/Permissions/credentials.txt'
+SCRIPT       : [Logout]: New player fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= with logout time 15
+SCRIPT       : Player "Survivor" (steamid=76561198271678203) initiated disconnect process...
+SCRIPT       : Player "Survivor" (steamid=76561198271678203) disconnected early from server (EXIT NOW).
+SCRIPT       : [Logout]: Player fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= finished
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= isn't in the players list! sending a remove.
+SCRIPT       : PlayerDisconnected -> PlayerListManager.RemoveEntry ► fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : ~DayZGame()

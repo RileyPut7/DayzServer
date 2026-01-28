@@ -1,0 +1,9 @@
+Logger Started at: 28.1.2026 02:18:51
+02:19:06 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble1" (1). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+02:19:06 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble5" (5). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+02:19:06 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble10" (10). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+02:19:06 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble25" (25). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+02:19:06 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble50" (50). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+02:19:06 [FATAL] [Core] Could not find Currency with the Itemname: "MoneyRuble100" (100). Check your currencies in the $profile:LBmaster/Config/Common/Currencies.json
+02:19:06 [INFO ] [Webhook] All Webhooks Valid ? true
+02:52:50 [INFO ] [Core] Deleting LBAPIManager...

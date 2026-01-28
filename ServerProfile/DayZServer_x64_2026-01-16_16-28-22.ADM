@@ -1,0 +1,20 @@
+
+
+******************************************************************************
+AdminLog started on 2026-01-16 at 16:28:22
+16:29:37 | Player "Survivor"(id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=) is connected
+16:30:38 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<6877.9, 11379.3, 403.3>) performed EmoteSuicide with BC_ARS12
+16:30:42 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<6877.9, 11379.3, 403.3>) committed suicide
+16:30:42 | Player "Survivor" (DEAD) (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<6877.9, 11379.3, 403.3>) died. Stats> Water: 1443.15 Energy: 341.85 Bleed sources: 0
+16:34:19 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5307.3, 9867.8, 334.2>)[HP: 98.0875] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeSoldierInfected)
+16:36:52 | Chat("Survivor"(id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=)): ᐅ yo
+16:37:09 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5379.7, 9868.5, 332.8>)[HP: 91.5] hit by Infected into Torso(1) for 8.5 damage (MeleeSoldierInfected)
+16:37:43 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5386.5, 9860.2, 332.7>) performed EmoteSitA with BC_DELTA_Fade
+16:37:56 | Player "Survivor"(id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=) has been disconnected
+16:40:30 | Player "Survivor"(id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=) is connected
+16:40:58 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5382.9, 9860.8, 332.7>) performed EmoteSuicide with BC_DELTA_Fade
+16:41:20 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5394.9, 9856.1, 332.9>) performed EmoteSuicide with BC_DELTA_Fade
+16:41:24 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5395.0, 9855.9, 332.8>) committed suicide
+16:41:24 | Player "Survivor" (DEAD) (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5395.0, 9855.9, 332.8>) died. Stats> Water: 600 Energy: 486.661 Bleed sources: 0
+16:44:21 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<12488.3, 9824.6, 12.6>) performed EmoteSitA
+16:44:35 | Player "Survivor"(id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=) has been disconnected

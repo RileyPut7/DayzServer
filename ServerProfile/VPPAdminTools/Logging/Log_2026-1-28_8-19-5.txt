@@ -1,0 +1,238 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2026-1-28_8-19-5
+====================================================================================
+8:19:5 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+8:19:5 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+8:19:5 | [PermissionManager] Perm (FreeCamera) has been registered!
+8:19:5 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuItemManager) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuServerManager) has been registered!
+8:19:5 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+8:19:5 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+8:19:5 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+8:19:5 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+8:19:5 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+8:19:5 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+8:19:5 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+8:19:5 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+8:19:5 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+8:19:5 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+8:19:5 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+8:19:5 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+8:19:5 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+8:19:5 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+8:19:5 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+8:19:5 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+8:19:5 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+8:19:5 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuBansManager) has been registered!
+8:19:5 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+8:19:5 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+8:19:5 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+8:19:5 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+8:19:5 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+8:19:5 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+8:19:5 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+8:19:5 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+8:19:5 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+8:19:5 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+8:19:5 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+8:19:5 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+8:19:5 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+8:19:5 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+8:19:5 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+8:19:5 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+8:19:5 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+8:19:5 | [PermissionManager] Adding Super Admin (76561198271678203)
+8:19:5 | [PermissionManager] Loaded UserGroups.json
+8:19:5 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+8:19:5 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+8:19:5 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+8:19:5 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+8:19:5 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+8:19:6 | Building Sets Loaded: 0
+8:19:6 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+8:19:6 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+8:21:9 | Player "Survivor" (steamId=76561198271678203) connected to server!
+8:22:40 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_JetPack_Green)
+8:22:51 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_JetPack_Green)
+8:23:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_MagicBroom)
+8:26:4 | "Survivor" (steamid=76561198271678203) Spawned Item: (TerritoryFlag)
+8:26:5 | "Survivor" (steamid=76561198271678203) Spawned Item: (TerritoryFlagKit)
+8:26:29 | Admin "Survivor" (steamId=76561198271678203) built part base at position: <6891.124512, 437.163788, 11431.932617>
+8:26:31 | Admin "Survivor" (steamId=76561198271678203) built part support at position: <6891.124512, 437.163788, 11431.932617>
+8:26:32 | Admin "Survivor" (steamId=76561198271678203) built part pole at position: <6891.124512, 437.163788, 11431.932617>
+8:26:53 | "Survivor" (steamid=76561198271678203) Spawned Item: (Flag_Chernarus)
+8:27:57 | "Survivor" (steamid=76561198271678203) Spawned Item: (BC_G36_Admin)
+8:30:51 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_Zepplin)
+8:31:10 | "Survivor" (steamid=76561198271678203) Spawned Item: (SparkPlug)
+8:31:22 | "Survivor" (steamid=76561198271678203) Spawned Item: (CanisterGasoline)
+8:33:52 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Admin_Hammer)
+8:33:53 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_ZepplinMotorBladeLarge)
+8:33:56 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_ZepplinMotorBlade)
+8:33:57 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_ZepplinMotorBlade)
+8:33:58 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_ZepplinMotorBladeLarge)
+8:34:19 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_ParaMotorBlade)
+8:34:20 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_ZepplinMotorBlade)
+8:34:20 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_ZepplinMotorBladeLarge)
+8:34:22 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_ParaMotor_RWB)
+8:35:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (ADM_ParachuteBag_Target_Speed)
+8:35:19 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<6121.069824, 1228.984375, 11336.226563>)
+8:36:29 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<7313.075684, 601.748169, 11512.828125>)
+8:36:29 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<8394.308594, 590.312988, 11681.704102>)
+8:36:31 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<6667.939453, 377.376312, 11250.094727>)
+8:36:32 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<5792.825195, 704.902100, 11817.149414>)
+8:36:33 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<5805.636230, 782.037964, 11790.811523>)
+8:36:33 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<5789.812500, 773.945801, 11771.005859>)
+8:36:34 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<5790.860352, 765.937012, 11778.532227>)
+8:36:34 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<5789.166504, 766.068970, 11779.489258>)
+8:36:35 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<4910.867188, 1153.027222, 12271.055664>)
+8:36:35 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<4910.716797, 1157.319214, 12266.111328>)
+8:36:55 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<5581.246582, 669.962036, 11391.036133>)
+8:36:58 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<6655.000488, 559.781982, 11201.901367>)
+8:40:38 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6896.751953, 443.256683, 11420.558594>
+8:40:40 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6896.751953, 443.256683, 11420.558594>
+8:40:55 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6892.102051, 443.256683, 11420.307617>
+8:40:58 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6892.102051, 443.256683, 11420.307617>
+8:41:14 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Hatch_Kit)
+8:41:15 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:41:15 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:41:15 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:41:15 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:41:16 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:41:16 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:41:16 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:41:16 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:41:49 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6902.860840, 446.255829, 11441.863281>
+8:41:51 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6902.860840, 446.255829, 11441.863281>
+8:41:53 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6902.860840, 446.255829, 11441.863281>
+8:42:0 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6903.211426, 446.256042, 11435.873047>
+8:42:1 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6903.211426, 446.256042, 11435.873047>
+8:42:6 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6903.562012, 446.256256, 11429.882813>
+8:42:7 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6903.562012, 446.256256, 11429.882813>
+8:42:9 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6903.912598, 446.256470, 11423.892578>
+8:42:10 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6903.912598, 446.256470, 11423.892578>
+8:42:15 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6896.871094, 446.255188, 11441.509766>
+8:42:16 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6896.871094, 446.255188, 11441.509766>
+8:42:42 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:42:42 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:42:42 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:42:42 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:42:49 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+8:42:49 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+8:42:49 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+8:42:49 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+8:42:50 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+8:43:14 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6879.603027, 446.256256, 11428.480469>
+8:43:15 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6879.603027, 446.256256, 11428.480469>
+8:43:16 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6885.242188, 446.256256, 11434.822266>
+8:43:17 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6885.242188, 446.256256, 11434.822266>
+8:43:20 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6878.901855, 446.255829, 11440.460938>
+8:43:21 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6878.901855, 446.255829, 11440.460938>
+8:43:23 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6884.891602, 446.256042, 11440.812500>
+8:43:24 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6884.891602, 446.256042, 11440.812500>
+8:43:25 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6890.881348, 446.255402, 11441.160156>
+8:43:26 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6890.881348, 446.255402, 11441.160156>
+8:43:29 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6891.582520, 446.255402, 11429.179688>
+8:43:30 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6891.582520, 446.255402, 11429.179688>
+8:43:32 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6885.943359, 446.256256, 11422.841797>
+8:43:33 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6885.943359, 446.256256, 11422.841797>
+8:43:34 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6879.953613, 446.256042, 11422.490234>
+8:43:36 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6879.953613, 446.256042, 11422.490234>
+8:43:47 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:43:47 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Roof_Kit)
+8:43:57 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6886.293945, 446.256042, 11416.851563>
+8:43:58 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6886.293945, 446.256042, 11416.851563>
+8:44:37 | "Survivor" (steamid=76561198271678203) healed player (steamid=76561198271678203)
+8:44:40 | "Survivor" (steamid=76561198271678203) gave godmode to (steamid=76561198271678203)
+8:44:45 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6892.283691, 446.256470, 11417.202148>
+8:44:46 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6892.283691, 446.256470, 11417.202148>
+8:45:11 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6905.746094, 443.473389, 11442.029297>
+8:45:13 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6905.746094, 443.473389, 11442.029297>
+8:45:15 | Admin "Survivor" (steamId=76561198271678203) built part t3_door at position: <6905.746094, 443.473389, 11442.029297>
+8:45:18 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6903.912598, 443.255402, 11423.889648>
+8:45:19 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6903.912598, 443.255402, 11423.889648>
+8:45:27 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6903.912598, 443.255402, 11423.889648>
+8:45:56 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+8:46:2 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+8:46:2 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+8:46:2 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+8:46:2 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+8:46:21 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6890.880859, 443.256256, 11441.161133>
+8:46:22 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6890.880859, 443.256256, 11441.161133>
+8:46:24 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6890.880859, 443.256256, 11441.161133>
+8:46:26 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6896.870605, 443.256470, 11441.511719>
+8:46:27 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6896.870605, 443.256470, 11441.511719>
+8:47:8 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6886.112305, 437.256256, 11419.957031>
+8:47:11 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6886.112305, 437.256256, 11419.957031>
+8:47:13 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6892.107910, 437.256042, 11420.302734>
+8:47:14 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6892.107910, 437.256042, 11420.302734>
+8:47:35 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6885.933594, 437.163361, 11421.667969>
+8:47:40 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6886.112305, 440.256683, 11419.957031>
+8:47:42 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6886.112305, 440.256683, 11419.957031>
+8:47:57 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6879.321777, 440.010376, 11428.483398>
+8:48:18 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+8:48:18 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+8:48:38 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6876.719238, 443.256256, 11428.312500>
+8:48:39 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6876.719238, 443.256256, 11428.312500>
+8:48:42 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6876.368164, 443.256042, 11434.301758>
+8:48:43 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6876.368164, 443.256042, 11434.301758>
+8:48:45 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6877.069336, 443.256042, 11422.322266>
+8:48:46 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6877.069336, 443.256042, 11422.322266>
+8:49:16 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+8:50:7 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6902.787598, 437.256042, 11420.923828>
+8:50:8 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6902.787598, 437.256042, 11420.923828>
+8:50:10 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6905.729004, 437.256927, 11420.244141>
+8:50:12 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6905.729004, 437.256927, 11420.244141>
+8:50:14 | Admin "Survivor" (steamId=76561198271678203) built part t3_door at position: <6905.729004, 437.256927, 11420.244141>
+8:50:15 | Admin "Survivor" (steamId=76561198271678203) built part window_bars at position: <6905.729004, 437.256927, 11420.244141>
+8:52:8 | Player "Survivor" (steamId=76561198271678203) initiated disconnect process...
+8:52:9 | Player "Survivor" (steamId=76561198271678203) disconnected early from server (EXIT NOW).

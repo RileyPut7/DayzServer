@@ -1,0 +1,99 @@
+
+
+[2026-01-16 12:13:10] Client version: no bootstrapper found
+[2026-01-16 12:13:10] [AppID 221100] Schema not found on disk
+[2026-01-16 12:13:10] [AppID 221100] CAPIJobRequestUserStats - updated schema from server
+[2026-01-16 12:13:10] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 12:15:53] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-16 12:17:43] Client version: no bootstrapper found
+[2026-01-16 12:17:43] [AppID 221100] Loaded schema from disk.
+[2026-01-16 12:17:43] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 12:40:53] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-16 12:46:50] Client version: no bootstrapper found
+[2026-01-16 12:46:50] [AppID 221100] Loaded schema from disk.
+[2026-01-16 12:46:50] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 13:22:55] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-16 14:00:32] Client version: no bootstrapper found
+[2026-01-16 14:00:32] [AppID 221100] Loaded schema from disk.
+[2026-01-16 14:00:32] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 14:02:07] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-16 14:08:40] Client version: no bootstrapper found
+[2026-01-16 14:08:40] [AppID 221100] Loaded schema from disk.
+[2026-01-16 14:08:41] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 14:19:47] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-16 14:26:27] Client version: no bootstrapper found
+[2026-01-16 14:26:27] [AppID 221100] Loaded schema from disk.
+[2026-01-16 14:26:27] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 14:34:08] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-16 14:56:08] Client version: no bootstrapper found
+[2026-01-16 14:56:08] [AppID 221100] Loaded schema from disk.
+[2026-01-16 14:56:09] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 15:04:16] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2026-01-16 15:04:16] [AppID 221100] Could not set stats for user [U:1:311412475]. User was not verified as playing on the server
+
+
+[2026-01-16 15:07:36] Client version: no bootstrapper found
+[2026-01-16 15:07:36] [AppID 221100] Loaded schema from disk.
+[2026-01-16 15:07:36] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 15:26:16] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-16 15:38:35] Client version: no bootstrapper found
+[2026-01-16 15:38:35] [AppID 221100] Loaded schema from disk.
+[2026-01-16 15:38:35] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 15:41:52] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-16 15:47:09] Client version: no bootstrapper found
+[2026-01-16 15:47:09] [AppID 221100] Loaded schema from disk.
+[2026-01-16 15:47:10] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 15:56:57] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-16 16:29:37] Client version: no bootstrapper found
+[2026-01-16 16:29:37] [AppID 221100] Loaded schema from disk.
+[2026-01-16 16:29:37] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 16:37:44] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2026-01-16 16:40:30] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-16 16:44:25] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-21 18:28:06] Client version: no bootstrapper found
+[2026-01-21 18:28:06] [AppID 221100] Loaded schema from disk.
+[2026-01-21 18:28:06] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-21 18:38:34] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-27 17:47:12] Client version: no bootstrapper found
+[2026-01-27 17:47:12] [AppID 221100] Loaded schema from disk.
+[2026-01-27 17:47:12] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-27 18:29:37] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2026-01-27 18:39:09] Client version: no bootstrapper found
+[2026-01-27 18:39:09] [AppID 221100] Loaded schema from disk.
+[2026-01-27 18:39:09] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-27 19:33:10] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2026-01-27 19:33:16] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-27 19:33:24] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2026-01-27 19:33:30] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-27 20:40:13] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+[2026-01-27 20:40:17] [AppID 221100] Could not set stats for user [U:1:311412475]. User was not verified as playing on the server
+
+
+[2026-01-28 02:20:36] Client version: no bootstrapper found
+[2026-01-28 02:20:36] [AppID 221100] Loaded schema from disk.
+[2026-01-28 02:20:37] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2026-01-28 02:52:09] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed

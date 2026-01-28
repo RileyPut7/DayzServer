@@ -1,0 +1,23 @@
+Log Created: 2026-01-21_18:12:13
+18:12:13 | MPG_Spawner: STARTED;
+18:12:13 | Points To Load: 5
+18:12:13 | PointId: 1; Trigger: Created; title: Точка 1; pos: <4246.000000, 333.700012, 5586.700195>; type: sphere
+18:12:13 | PointId: 1; Trigger: SetSize; radius: 50; height: 0; widthX: 0; widthY: 0
+18:12:13 | PointId: 1; TryToProcessMappingDataObjects: 0; eventType: 0
+18:12:13 | PointId: 1; mappingData: 0
+18:12:13 | PointId: 2; Trigger: Created; title: Точка 2; pos: <7760.487793, 360.440002, 14849.181641>; type: sphere
+18:12:13 | PointId: 2; Trigger: SetSize; radius: 5; height: 0; widthX: 0; widthY: 0
+18:12:13 | PointId: 2; TryToProcessMappingDataObjects: 0; eventType: 0
+18:12:13 | PointId: 2; mappingData: 0
+18:12:13 | PointId: 3; Trigger: Created; title: Точка 3; pos: <2081.737549, 194.911041, 5404.941895>; type: sphere
+18:12:13 | PointId: 3; Trigger: SetSize; radius: 20; height: 0; widthX: 0; widthY: 0
+18:12:13 | PointId: 3; TryToProcessMappingDataObjects: 0; eventType: 0
+18:12:13 | PointId: 3; mappingData: 0
+18:12:13 | PointId: 4; Trigger: Created; title: Точка 4; pos: <5960.494629, 4.088753, 2055.235352>; type: cylinder
+18:12:13 | PointId: 4; Trigger: SetSize; radius: 30; height: 15; widthX: 0; widthY: 0
+18:12:13 | PointId: 4; TryToProcessMappingDataObjects: 0; eventType: 0
+18:12:13 | PointId: 4; mappingData: 0
+18:12:13 | PointId: 5; Trigger: Created; title: GUNS; pos: <5390.479980, 332.750000, 9861.129883>; type: box
+18:12:13 | PointId: 5; Trigger: SetSize; radius: 0; height: 5; widthX: 20; widthY: 10
+18:12:13 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 0
+18:12:13 | PointId: 5; mappingData: 0

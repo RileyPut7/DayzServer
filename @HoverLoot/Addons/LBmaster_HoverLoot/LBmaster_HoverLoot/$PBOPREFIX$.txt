@@ -1,0 +1,5 @@
+//<'LBmaster_HoverLoot.pbo' properties via Mikero's dos tools, dll version 9.98>
+prefix=LBmaster_HoverLoot;
+Version=1.0.2:stable;
+//PboType=Arma Addon;
+//</properties>

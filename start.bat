@@ -1,0 +1,3 @@
+@echo off
+start DayZServer_x64.exe -config=serverDZ.cfg -port=2302 -profiles=ServerProfile -dologs -adminlog -netlog -freezecheck -scrAllowFileWrite -filePatching "-mod=@CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@RigzFOV;@ADM"
+pause

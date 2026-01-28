@@ -1,0 +1,14 @@
+---------------------------------------------
+Log F:\SteamLibrary\steamapps\common\DayZServer\ServerProfile\script_2026-01-16_14-49-08.log started at 16.01. 14:49:08
+
+SCRIPT       : Loaded Core (Client PBO) Version 2.4.2:stable
+SCRIPT       : Loaded Hover Loot (Client PBO) Version 1.0.2:stable
+SCRIPT       : Registered 382 temporary action enum(s), UAN==382
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\struct\lbconfigtype.c,3": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\config\loader\lbconfigmanager.c,68": FIX-ME: Syntax error
+SCRIPT    (W): @"BaseBuildingPlus/scripts/3_Game/bbpconfig.c,143": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (E): @"DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c,13": Unknown type 'ExpansionSettings'
+SCRIPT    (E): Can't compile "Game" script module!
+
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c(13): Unknown type 'ExpansionSettings'
+SCRIPT    (E): Failed to load game scripts!

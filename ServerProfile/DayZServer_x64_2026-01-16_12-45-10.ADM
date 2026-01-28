@@ -1,0 +1,18 @@
+
+
+******************************************************************************
+AdminLog started on 2026-01-16 at 12:45:10
+12:46:50 | Player "Survivor"(id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=) is connected
+12:47:24 | Player "Survivor" (DEAD) (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<825.3, 15252.1, 426.7>)[HP: 0] hit by FallDamageHealth
+12:47:24 | Player "Survivor" (DEAD) (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<825.3, 15252.1, 426.7>) died. Stats> Water: 499.12 Energy: 352.568 Bleed sources: 1
+12:56:18 | [BBP] 'Survivor' (76561198271678203) DISMANTLED Large Ramp using ADMIN HAMMER LOCATION:<6912.093262, 432.761566, 11433.494141>
+12:57:01 | [BBP] 'Survivor' (76561198271678203) DESTROYED [T1] Foundation using ADMIN HAMMER LOCATION:<6894.897461, 437.299072, 11425.136719>
+12:57:07 | [BBP] 'Survivor' (76561198271678203) DESTROYED [Frame] Foundation using ADMIN HAMMER LOCATION:<6894.995117, 437.299072, 11425.251953>
+12:57:49 | [BBP] 'Survivor' (76561198271678203) DESTROYED [T1] Foundation using ADMIN HAMMER LOCATION:<6893.828125, 437.298645, 11434.057617>
+12:57:53 | [BBP] 'Survivor' (76561198271678203) DESTROYED [Frame] Foundation using ADMIN HAMMER LOCATION:<6894.188965, 437.294403, 11434.592773>
+12:58:28 | [BBP] 'Survivor' (76561198271678203) DISMANTLED [T1] Foundation using Hatchet LOCATION:<6898.007813, 437.299072, 11424.225586>
+12:58:34 | [BBP] 'Survivor' (76561198271678203) DISMANTLED [Frame] Foundation using Hatchet LOCATION:<6901.325195, 437.298859, 11423.532227>
+13:04:47 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<6902.4, 11429.3, 437.2>)[HP: 99.6314] hit by Infected into Torso(1) for 0.36855 damage (MeleeInfected)
+13:04:47 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<6903.1, 11429.3, 437.2>)[HP: 98.1689] hit by Infected into LeftLeg(8) for 5.85 damage (MeleeInfected)
+13:22:53 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<6896.5, 11429.6, 437.2>) performed EmoteSitA with BBP_Admin_Hammer
+13:22:56 | Player "Survivor"(id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=) has been disconnected

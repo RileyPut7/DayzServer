@@ -1,0 +1,48 @@
+[
+    {
+        "Name": "GM",
+        "Pos": [
+            3693.56005859375,
+            402.31201171875,
+            6010.0498046875
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "chernarusplus",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "Altar",
+        "Pos": [
+            8154.87,
+            300,
+            9138.62
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            212,
+            138,
+            251
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "chernarusplus",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    }
+]

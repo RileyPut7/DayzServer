@@ -1,0 +1,27 @@
+
+
+******************************************************************************
+AdminLog started on 2026-01-21 at 18:26:21
+18:28:06 | Player "Survivor"(id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=) is connected
+18:29:18 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<12488.3, 9824.6, 12.6>) performed EmoteSuicide with BC_ARS12
+18:29:23 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<12488.3, 9824.6, 12.6>) committed suicide
+18:29:23 | Player "Survivor" (DEAD) (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<12488.3, 9824.6, 12.6>) died. Stats> Water: 600 Energy: 556.684 Bleed sources: 0
+18:32:47 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5314.8, 9797.0, 336.9>)[HP: 98.0875] hit by Infected into LeftLeg(8) for 7.65 damage (MeleeSoldierInfected)
+18:32:58 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5314.0, 9819.0, 336.9>)[HP: 97.5976] hit by Infected into RightArm(17) for 8.5 damage (MeleeSoldierInfected)
+18:33:00 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5318.0, 9813.1, 336.8>)[HP: 96.8376] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
+18:33:01 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5317.8, 9813.1, 336.8>)[HP: 95.9876] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
+18:33:01 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5317.8, 9813.1, 336.8>)[HP: 87.4876] hit by Infected into Torso(1) for 8.5 damage (MeleeSoldierInfected)
+18:33:02 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5317.8, 9813.1, 336.8>)[HP: 85.1027] hit by Infected into RightLeg(3) for 9.9 damage (MeleeSoldierInfectedLong)
+18:33:03 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5317.8, 9813.1, 336.8>)[HP: 83.1902] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+18:33:04 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5317.9, 9812.9, 336.8>)[HP: 82.3402] hit by Infected into RightArm(17) for 8.5 damage (MeleeSoldierInfected)
+18:33:04 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5317.9, 9812.8, 336.8>)[HP: 81.4902] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
+18:33:04 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5317.9, 9812.8, 336.8>)[HP: 72.9902] hit by Infected into Torso(1) for 8.5 damage (MeleeSoldierInfected)
+18:33:04 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5317.9, 9812.8, 336.8>) is unconscious
+18:33:05 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5318.4, 9812.2, 336.8>)[HP: 64.4902] hit by Infected into Torso(1) for 8.5 damage (MeleeSoldierInfected)
+18:33:05 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5318.5, 9812.0, 336.8>)[HP: 56.0802] hit by Infected into Torso(1) for 8.5 damage (MeleeSoldierInfected)
+18:33:06 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5318.9, 9811.7, 336.8>)[HP: 54.1677] hit by Infected into RightLeg(3) for 7.65 damage (MeleeSoldierInfected)
+18:33:06 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5319.2, 9811.9, 336.8>)[HP: 53.3177] hit by Infected into LeftArm(18) for 8.5 damage (MeleeSoldierInfected)
+18:33:57 | Player "Survivor" (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5320.9, 9813.5, 336.8>) regained consciousness
+18:35:20 | Player "Survivor" (DEAD) (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5307.0, 9827.8, 336.9>) died. Stats> Water: 600 Energy: 514.373 Bleed sources: 2
+18:35:20 | Player "Survivor" (DEAD) (id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= pos=<5307.0, 9827.8, 336.9>) bled out
+18:38:35 | Player "Survivor"(id=fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic=) has been disconnected

@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="BC_Anzio">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_Anzio_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_URL20">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_PTRD">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_CSR50">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_BFG">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AR50">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_A2CHEY">
+		<attachments chance="1.00">
+			<item name="BC_A2CHEY_Scope" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_A2CHEY_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_A2CHEY_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_A2CHEY_Black">
+		<attachments chance="1.00">
+			<item name="BC_A2CHEY_Scope_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_A2CHEY_Suppressor_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_A2CHEY_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_ARS12">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ARS12_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ARS12_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_TAC95">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_TAC95_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_SNIPEX">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_SNIPEX_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_OSV96">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_OSV96_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_NTW">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_NTW_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_SERBU">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_ASH12">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="BC_Wrapped_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ASH12_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_VSSK">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_VSSK_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="AS50">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AS50_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Asiimov">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Atheris">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_DragonLore">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Gungnir">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_HyperBeast">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Medusa">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_NeoNoir">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_OniTaiji">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Redline">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_ThePrince">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Anime">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Cyrex">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_DarkSmoke">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Dawning">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_DeadlyBird">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_DeadPool">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_EletricHive">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_EliteBuild">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Fade">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_FeverDream">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_GoldenPhoenix">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Graphite">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_HellGate">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_IceTitan">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_LightningStrike">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Lilium">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Phobos">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_RailGun">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_RoyalDice">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_SafariMesh">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_StarKeeper">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Tactical">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_TertRoner">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_TokyoGhoul">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_UltraJade">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Unicorn">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Vertex">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_WormGod">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWP_Xray">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AWP_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AX50">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AX50_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AX50_Black">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_AX50_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_DSR">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_DSR_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_DSR_Fall">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_DSR_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_DSR_Winter">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_DSR_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M82">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M82_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_GM6Lynx">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_GM6Lynx_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M82_Black">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M82_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M82_Desert">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M82_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M82_Snow">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M82_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M98B">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_50Cal_Suppressor_2" chance="0.50" />
+			<item name="BC_50Cal_Suppressor_3" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M98B_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Ruger">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_Ruger_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M107">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M107_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M2010">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M2010_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M2010_Blue">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M2010_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_TAC21">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_TAC21_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_CDX50">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_CDX50_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M99">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_SnowOwl">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_SnowOwl_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_SV98_Green">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="BC_338_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_SV98_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+		<type name="BC_SV98_Black">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="BC_338_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_SV98_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Delta">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_Delta_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_DELTA_Caution">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_Delta_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_DELTA_Red">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_Delta_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_DELTA_Stripes">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_Delta_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_DELTA_Fade">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_Delta_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_DELTA_LowFade">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_Delta_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_DVL">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_DVL_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_DVLM2_Green">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="BC_338_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_DVLM2_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_SRS">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_SRS_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_K14">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_K14_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M100">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M100_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M200">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M200_Camo">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M200_Black">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M200_BlackDamascus">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M200_BlueDigital">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M200_BlueTiger">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M200_FDE">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M200_GreenDigital">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M200_RussianCamo">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M200_Winter">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M200_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M300">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M300_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M1000X">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M1000X_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_R700A7_Grey">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_R700_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_FeverDream">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_BigIron">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_BitW">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_DragonFire">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_Abyss">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_AcidFade">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_GhostCrusader">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_Harpy">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_HyperBeast">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_Necropos">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_NeedleWork">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_Novritsch">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_Scout_Tread">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_408_Suppressor_1" chance="0.25" />
+			<item name="BC_408_Suppressor_1_nocover" chance="0.25" />
+			<item name="BC_408_Suppressor_2" chance="0.25" />
+			<item name="BC_408_Suppressor_2_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_scmagazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_ScarH">
+		<attachments chance="1.00">
+			<item name="BC_SCARH_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+	</type>
+	<type name="BC_PKP">
+		<attachments chance="1.00">
+			<item name="BC_PKP_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_PBS4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_G36">
+		<attachments chance="1.00">
+			<item name="BC_G36_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+	</type>
+	<type name="BC_T95">
+		<attachments chance="1.00">
+			<item name="BC_50Rd308_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+	</type>
+	<type name="BC_HK416">
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+	</type> 
+	<type name="BC_M240">
+		<attachments chance="1.00">
+			<item name="BC_M240_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="BC_PKM">
+		<attachments chance="1.00">
+			<item name="BC_PKM_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="BC_KORD">
+		<attachments chance="1.00">
+			<item name="BC_KORD_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M249">
+		<attachments chance="1.00">
+			<item name="BC_M249_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+	</type>
+	<type name="BC_Zafir">
+		<attachments chance="1.00">
+			<item name="BC_Zafir_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_C14_Black">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="BC_338_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_C14_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_AWM_Black">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="0.20">
+			<item name="BC_338_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_C14_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_MCXSPEAR_Black">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_MCXSPEAR_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_MCXSPEAR_Tan">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_MCXSPEAR_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_FNEVOLYS_Tan">
+		<attachments chance="1.00">
+			<item name="M68Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_338_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_FNEVOLYS_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_MP7A1">
+		<attachments chance="1.00">
+			<item name="BC_MP7A1_40Rd_Magazine" chance="1.00" />
+			<item name="BC_MP7A1_60Rd_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="BC_CZScorpion">
+		<attachments chance="1.00">
+			<item name="BC_CZScorpion_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>	
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="BC_M60">
+		<attachments chance="1.00">
+			<item name="BC_M60_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>	
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="BC_HKPSG1">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_HKPSG1_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="BC_MDR_Tan">
+		<attachments chance="1.00">
+			<item name="M68Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="BC_M110_Tan">
+		<attachments chance="1.00">
+			<item name="M68Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M110_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="BC_ACR17S">
+		<attachments chance="1.00">
+			<item name="M68Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ACR17S_Magazine" chance="0.60" />
+			<item name="BC_50Rd308_Magazine" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="BC_KSVK_Black">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_KSVK_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_M82A2">
+		<attachments chance="1.00">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M82_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="BC_FAMASF1">
+		<attachments chance="1.00">
+			<item name="M68Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="0.25" />
+			<item name="Mag_STANAGCoupled_30Rnd" chance="0.25" />
+			<item name="Mag_CMAG_40Rnd_Black" chance="0.25" />
+			<item name="Mag_CMAG_30Rnd_Black" chance="0.25" />
+			<item name="Mag_CMAG_40Rnd" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="BC_M1A">
+		<attachments chance="1.00">
+			<item name="M68Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_M1A_Magazine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BC_ForeGrip_B25U_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Cobra_Black" chance="0.25" />
+			<item name="BC_ForeGrip_Skeletonized_Black" chance="0.25" />
+			<item name="BC_ForeGrip_SLSG_Black" chance="0.25" />
+			<item name="BC_ForeGrip_TFS_Black" chance="0.25" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<!--Vanilla-->
+	<type name="FAL">
+		<attachments chance="1.00">
+			<item name="M68Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_FAL_20Rnd" chance="0.50" />
+			<item name="BC_50Rd308_Magazine" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Fal_OeBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="SVD">
+		<attachments chance="1.00">
+			<item name="PSO11Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="M14">
+		<attachments chance="1.00">
+			<item name="m68Optic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_M14_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.40">
+			<item name="BC_Cordura_Suppressor" chance="0.50" />
+			<item name="BC_Cordura_Suppressor_Black" chance="0.50" />
+		</attachments>
+	</type>
+</types>

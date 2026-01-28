@@ -1,0 +1,43 @@
+---------------------------------------------
+Log F:\SteamLibrary\steamapps\common\DayZServer\ServerProfile\crash_2026-01-28_02-18-50.log started at 28.01. 02:52:52
+
+
+
+------------------------------------
+RILEYPC, 28.01 2026 02:52:52
+Unhandled exception
+
+Program: F:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+Reason: Access violation. Illegal read by 0x7ff63964975b at 0x1e529e57f58
+
+SymGetSymFromAddr:487, addr:0x7ff63964975b
+SymGetSymFromAddr:487, addr:0x7ff6396497cb
+SymGetSymFromAddr:487, addr:0x7ff6395fb2a9
+SymGetSymFromAddr:487, addr:0x7ff639624453
+SymGetSymFromAddr:487, addr:0x7ff639621508
+SymGetSymFromAddr:487, addr:0x7ff63964981c
+SymGetSymFromAddr:487, addr:0x7ff6395fb2a9
+SymGetSymFromAddr:487, addr:0x7ff639624453
+SymGetSymFromAddr:487, addr:0x7ff639621508
+SymGetSymFromAddr:487, addr:0x7ff63964981c
+SymGetSymFromAddr:487, addr:0x7ff6395dfdfa
+SymGetSymFromAddr:487, addr:0x7ff6396441e2
+SymGetSymFromAddr:487, addr:0x7ff63964465e
+SymGetSymFromAddr:487, addr:0x7ff63965109e
+SymGetSymFromAddr:487, addr:0x7ff6398a0782
+[CDPCreateServer]: ??? addr:0x7ff639cf8421
+[CDPCreateServer]: ??? addr:0x7ff639cf813d
+SymGetSymFromAddr:487, addr:0x7ff63974b77b
+[CDPCreateServer]: ??? addr:0x7ff639cfa4d8
+SymGetSymFromAddr:487, addr:0x7ff63974b6cf
+[CDPCreateServer]: ??? addr:0x7ff639cfadfd
+SymGetSymFromAddr:487, addr:0x7ff63987737e
+[CDPCreateServer]: ??? addr:0x7ff639e596fe
+[BaseThreadInitThunk]: ??? addr:0x7ffb64f0e8d7
+[RtlUserThreadStart]: ??? addr:0x7ffb65a8c53c
+[RtlUserThreadStart]: ??? addr:0x7ffb65a8c53c
+
+
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@RigzFOV;@ADM 

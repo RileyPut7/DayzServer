@@ -1,0 +1,332 @@
+Log Created: 2026-01-16_16:28:41
+16:28:41 | MPG_Spawner: STARTED;
+16:28:41 | Points To Load: 5
+16:28:41 | PointId: 1; Trigger: Created; title: Точка 1; pos: <4246.000000, 333.700012, 5586.700195>; type: sphere
+16:28:41 | PointId: 1; Trigger: SetSize; radius: 50; height: 0; widthX: 0; widthY: 0
+16:28:41 | PointId: 1; TryToProcessMappingDataObjects: 0; eventType: 0
+16:28:41 | PointId: 1; mappingData: 0
+16:28:41 | PointId: 2; Trigger: Created; title: Точка 2; pos: <7760.487793, 360.440002, 14849.181641>; type: sphere
+16:28:41 | PointId: 2; Trigger: SetSize; radius: 5; height: 0; widthX: 0; widthY: 0
+16:28:41 | PointId: 2; TryToProcessMappingDataObjects: 0; eventType: 0
+16:28:41 | PointId: 2; mappingData: 0
+16:28:41 | PointId: 3; Trigger: Created; title: Точка 3; pos: <2081.737549, 194.911041, 5404.941895>; type: sphere
+16:28:41 | PointId: 3; Trigger: SetSize; radius: 20; height: 0; widthX: 0; widthY: 0
+16:28:41 | PointId: 3; TryToProcessMappingDataObjects: 0; eventType: 0
+16:28:41 | PointId: 3; mappingData: 0
+16:28:41 | PointId: 4; Trigger: Created; title: Точка 4; pos: <5960.494629, 4.088753, 2055.235352>; type: cylinder
+16:28:41 | PointId: 4; Trigger: SetSize; radius: 30; height: 15; widthX: 0; widthY: 0
+16:28:41 | PointId: 4; TryToProcessMappingDataObjects: 0; eventType: 0
+16:28:41 | PointId: 4; mappingData: 0
+16:28:41 | PointId: 5; Trigger: Created; title: GUNS; pos: <5390.479980, 332.750000, 9861.129883>; type: box
+16:28:41 | PointId: 5; Trigger: SetSize; radius: 0; height: 5; widthX: 20; widthY: 10
+16:28:41 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 0
+16:28:41 | PointId: 5; mappingData: 0
+16:31:37 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:31:37 | PointId: 5; EnterTime: 195.651; steamId: 76561198271678203; name: Survivor; playerPos: 5387.12,9866.4; 
+16:31:37 | PointId: 5; nextTriggerTime: 58
+16:31:37 | PointId: 5; currentTime: 195.651
+16:31:37 | PointId: 5; Will GoSpawn
+16:31:37 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:31:37 | PointId: 5; randSpawnLimit: 1; GetSpawnedCount: 0
+16:31:37 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:31:37 | PointId: 5; countToCreate < spawnPositions
+16:31:37 | PointId: 5; tryingCount: 1
+16:31:37 | PointId: 5; queuedCount: 1
+16:31:37 | PointId: 5; Spawned: BC_DELTA_Fade<f11b0600>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:31:37 | PointId: 5; SpawnQueue: Spawned; Item: BC_DELTA_Fade (1/1); Pos: <5390.479980, 0.000000, 9861.129883>
+16:31:37 | PointId: 5; SpawnQueue: Completed; Spawned items: 1
+16:31:41 | PointId: 5; ExitTime: 199.353; steamId: 76561198271678203; name: Survivor; playerPos: 5387,9866.59; 
+16:31:42 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:31:42 | PointId: 5; EnterTime: 200.154; steamId: 76561198271678203; name: Survivor; playerPos: 5387.06,9866.48; 
+16:31:42 | PointId: 5; nextTriggerTime: 222
+16:31:42 | PointId: 5; currentTime: 200.154
+16:31:42 | PointId: 5; Will NOT GoSpawn
+16:31:46 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:31:46 | PointId: 5; TryToCleanupLoot: none; insidersCount: 1; IsWorkingTime: true
+16:31:46 | PointId: 5; CleanSpawnedLootCount: 1
+16:31:51 | PointId: 5; ExitTime: 209.286; steamId: 76561198271678203; name: Survivor; playerPos: 5386.62,9866.59; 
+16:31:53 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:31:53 | PointId: 5; EnterTime: 211.119; steamId: 76561198271678203; name: Survivor; playerPos: 5386.67,9866.52; 
+16:31:53 | PointId: 5; nextTriggerTime: 222
+16:31:53 | PointId: 5; currentTime: 211.119
+16:31:53 | PointId: 5; Will NOT GoSpawn
+16:31:56 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:31:56 | PointId: 5; TryToCleanupLoot: none; insidersCount: 1; IsWorkingTime: true
+16:31:56 | PointId: 5; CleanSpawnedLootCount: 0
+16:31:57 | PointId: 5; ExitTime: 215.319; steamId: 76561198271678203; name: Survivor; playerPos: 5387.06,9866.54; 
+16:32:02 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:32:02 | PointId: 5; TryToCleanupLoot: yes; count: 1
+16:32:02 | PointId: 5; CleanSpawnedLootCount: 0
+16:32:04 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:32:04 | PointId: 5; EnterTime: 222.487; steamId: 76561198271678203; name: Survivor; playerPos: 5392.14,9866.4; 
+16:32:04 | PointId: 5; nextTriggerTime: 222
+16:32:04 | PointId: 5; currentTime: 222.487
+16:32:04 | PointId: 5; Will GoSpawn
+16:32:04 | PointId: 5; AlreadySpawned Loot: 0
+16:32:04 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:32:04 | PointId: 5; randSpawnLimit: 2; GetSpawnedCount: 0
+16:32:04 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:32:04 | PointId: 5; countToCreate < spawnPositions
+16:32:04 | PointId: 5; tryingCount: 2
+16:32:04 | PointId: 5; queuedCount: 2
+16:32:04 | PointId: 5; Spawned: BC_Delta_Magazine<eef129e0>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:04 | PointId: 5; SpawnQueue: Spawned; Item: BC_Delta_Magazine (1/2); Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:04 | PointId: 5; Spawned: HuntingOptic<1383180>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:04 | PointId: 5; SpawnQueue: Spawned; Item: HuntingOptic (2/2); Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:04 | PointId: 5; SpawnQueue: Completed; Spawned items: 2
+16:32:12 | PointId: 5; ExitTime: 230.687; steamId: 76561198271678203; name: Survivor; playerPos: 5386.82,9866.53; 
+16:32:13 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:32:13 | PointId: 5; EnterTime: 232.023; steamId: 76561198271678203; name: Survivor; playerPos: 5386.62,9866.49; 
+16:32:13 | PointId: 5; nextTriggerTime: 243
+16:32:13 | PointId: 5; currentTime: 232.023
+16:32:13 | PointId: 5; Will NOT GoSpawn
+16:32:17 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:32:17 | PointId: 5; TryToCleanupLoot: none; insidersCount: 1; IsWorkingTime: true
+16:32:17 | PointId: 5; CleanSpawnedLootCount: 2
+16:32:24 | PointId: 5; Will TryToSpawn without leaving; insiders: 1
+16:32:24 | PointId: 5; StayInTime: 243.056; steamId: 76561198271678203; name: Survivor; playerPos: 5389.06,9860.9; 
+16:32:24 | PointId: 5; nextTriggerTime: 243
+16:32:24 | PointId: 5; currentTime: 243.056
+16:32:24 | PointId: 5; Will GoSpawn
+16:32:24 | PointId: 5; AlreadySpawned Loot: 0
+16:32:24 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:32:24 | PointId: 5; randSpawnLimit: 2; GetSpawnedCount: 0
+16:32:24 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:32:24 | PointId: 5; countToCreate < spawnPositions
+16:32:24 | PointId: 5; tryingCount: 2
+16:32:24 | PointId: 5; queuedCount: 2
+16:32:24 | PointId: 5; Spawned: ItemSuppressor<eef26be0>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:24 | PointId: 5; SpawnQueue: Spawned; Item: BC_408_Suppressor_1 (1/2); Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:24 | PointId: 5; Spawned: ItemSuppressor<eef243a0>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:24 | PointId: 5; SpawnQueue: Spawned; Item: BC_408_Suppressor_1 (2/2); Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:24 | PointId: 5; SpawnQueue: Completed; Spawned items: 2
+16:32:35 | PointId: 5; ExitTime: 253.384; steamId: 76561198271678203; name: Survivor; playerPos: 5379.86,9857.77; 
+16:32:36 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:32:36 | PointId: 5; EnterTime: 255.023; steamId: 76561198271678203; name: Survivor; playerPos: 5380.29,9857.92; 
+16:32:36 | PointId: 5; nextTriggerTime: 272
+16:32:36 | PointId: 5; currentTime: 255.023
+16:32:36 | PointId: 5; Will NOT GoSpawn
+16:32:40 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:32:40 | PointId: 5; TryToCleanupLoot: none; insidersCount: 1; IsWorkingTime: true
+16:32:40 | PointId: 5; CleanSpawnedLootCount: 2
+16:32:41 | PointId: 5; ExitTime: 259.883; steamId: 76561198271678203; name: Survivor; playerPos: 5380.05,9864.02; 
+16:32:43 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:32:43 | PointId: 5; EnterTime: 261.186; steamId: 76561198271678203; name: Survivor; playerPos: 5380.92,9866.38; 
+16:32:43 | PointId: 5; nextTriggerTime: 272
+16:32:43 | PointId: 5; currentTime: 261.186
+16:32:43 | PointId: 5; Will NOT GoSpawn
+16:32:46 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:32:46 | PointId: 5; TryToCleanupLoot: none; insidersCount: 1; IsWorkingTime: true
+16:32:46 | PointId: 5; CleanSpawnedLootCount: 0
+16:32:53 | PointId: 5; Will TryToSpawn without leaving; insiders: 1
+16:32:53 | PointId: 5; StayInTime: 272.056; steamId: 76561198271678203; name: Survivor; playerPos: 5384.22,9862.61; 
+16:32:53 | PointId: 5; nextTriggerTime: 272
+16:32:53 | PointId: 5; currentTime: 272.056
+16:32:53 | PointId: 5; Will GoSpawn
+16:32:53 | PointId: 5; AlreadySpawned Loot: 0
+16:32:53 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:32:53 | PointId: 5; randSpawnLimit: 2; GetSpawnedCount: 0
+16:32:53 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:32:53 | PointId: 5; countToCreate < spawnPositions
+16:32:53 | PointId: 5; tryingCount: 2
+16:32:53 | PointId: 5; queuedCount: 2
+16:32:53 | PointId: 5; Spawned: ItemSuppressor<eef28000>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:53 | PointId: 5; SpawnQueue: Spawned; Item: BC_408_Suppressor_1 (1/2); Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:53 | PointId: 5; Spawned: BC_Delta_Magazine<eef24db0>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:53 | PointId: 5; SpawnQueue: Spawned; Item: BC_Delta_Magazine (2/2); Pos: <5390.479980, 0.000000, 9861.129883>
+16:32:53 | PointId: 5; SpawnQueue: Completed; Spawned items: 2
+16:32:58 | PointId: 5; Will TryToSpawn without leaving; insiders: 1
+16:32:58 | PointId: 5; StayInTime: 277.056; steamId: 76561198271678203; name: Survivor; playerPos: 5384.22,9862.61; 
+16:32:58 | PointId: 5; nextTriggerTime: 277
+16:32:58 | PointId: 5; currentTime: 277.056
+16:32:58 | PointId: 5; Will GoSpawn
+16:32:58 | PointId: 5; AlreadySpawned Loot: 2
+16:32:58 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:32:58 | PointId: 5; randSpawnLimit: 1; GetSpawnedCount: 2
+16:32:58 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:32:58 | PointId: 5; countToCreate < spawnPositions
+16:32:58 | PointId: 5; tryingCount: 1
+16:32:58 | PointId: 5; queuedCount: 1
+16:32:58 | PointId: 5; ERROR: Object 'AS50' is NOT created
+16:32:58 | PointId: 5; SpawnQueue: Completed; Spawned items: 1
+16:33:04 | PointId: 5; ExitTime: 282.502; steamId: 76561198271678203; name: Survivor; playerPos: 5379.54,9867.16; 
+16:33:06 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:33:06 | PointId: 5; EnterTime: 284.687; steamId: 76561198271678203; name: Survivor; playerPos: 5380.76,9866.54; 
+16:33:06 | PointId: 5; nextTriggerTime: 297
+16:33:06 | PointId: 5; currentTime: 284.687
+16:33:06 | PointId: 5; Will NOT GoSpawn
+16:33:09 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:33:09 | PointId: 5; TryToCleanupLoot: none; insidersCount: 1; IsWorkingTime: true
+16:33:09 | PointId: 5; CleanSpawnedLootCount: 2
+16:33:12 | PointId: 5; ExitTime: 290.154; steamId: 76561198271678203; name: Survivor; playerPos: 5380.46,9866.58; 
+16:33:14 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:33:14 | PointId: 5; EnterTime: 292.185; steamId: 76561198271678203; name: Survivor; playerPos: 5382.9,9866.52; 
+16:33:14 | PointId: 5; nextTriggerTime: 297
+16:33:14 | PointId: 5; currentTime: 292.185
+16:33:14 | PointId: 5; Will NOT GoSpawn
+16:33:17 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:33:17 | PointId: 5; TryToCleanupLoot: none; insidersCount: 1; IsWorkingTime: true
+16:33:17 | PointId: 5; CleanSpawnedLootCount: 0
+16:33:18 | PointId: 5; Will TryToSpawn without leaving; insiders: 1
+16:33:18 | PointId: 5; StayInTime: 297.056; steamId: 76561198271678203; name: Survivor; playerPos: 5385.49,9862.62; 
+16:33:18 | PointId: 5; nextTriggerTime: 297
+16:33:18 | PointId: 5; currentTime: 297.056
+16:33:18 | PointId: 5; Will GoSpawn
+16:33:18 | PointId: 5; AlreadySpawned Loot: 0
+16:33:18 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:33:18 | PointId: 5; randSpawnLimit: 1; GetSpawnedCount: 0
+16:33:18 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:33:18 | PointId: 5; countToCreate < spawnPositions
+16:33:18 | PointId: 5; tryingCount: 1
+16:33:18 | PointId: 5; queuedCount: 1
+16:33:18 | PointId: 5; Spawned: BC_DELTA_Fade<f11b1190>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:33:18 | PointId: 5; SpawnQueue: Spawned; Item: BC_DELTA_Fade (1/1); Pos: <5390.479980, 0.000000, 9861.129883>
+16:33:18 | PointId: 5; SpawnQueue: Completed; Spawned items: 1
+16:33:29 | PointId: 5; ExitTime: 307.252; steamId: 76561198271678203; name: Survivor; playerPos: 5381.85,9866.57; 
+16:33:34 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:33:34 | PointId: 5; TryToCleanupLoot: yes; count: 7
+16:33:34 | PointId: 5; CleanSpawnedLootCount: 1
+16:37:00 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:37:00 | PointId: 5; EnterTime: 518.945; steamId: 76561198271678203; name: Survivor; playerPos: 5380.16,9856.84; 
+16:37:00 | PointId: 5; nextTriggerTime: 322
+16:37:00 | PointId: 5; currentTime: 518.945
+16:37:00 | PointId: 5; Will GoSpawn
+16:37:00 | PointId: 5; AlreadySpawned Loot: 0
+16:37:00 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:37:00 | PointId: 5; randSpawnLimit: 1; GetSpawnedCount: 0
+16:37:00 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:37:00 | PointId: 5; countToCreate < spawnPositions
+16:37:00 | PointId: 5; tryingCount: 1
+16:37:00 | PointId: 5; queuedCount: 1
+16:37:00 | PointId: 5; Spawned: BC_DELTA_Fade<f11bb370>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:37:00 | PointId: 5; SpawnQueue: Spawned; Item: BC_DELTA_Fade (1/1); Pos: <5390.479980, 0.000000, 9861.129883>
+16:37:00 | PointId: 5; SpawnQueue: Completed; Spawned items: 1
+16:37:01 | PointId: 5; ExitTime: 519.685; steamId: 76561198271678203; name: Survivor; playerPos: 5384.67,9855.66; 
+16:37:02 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:37:02 | PointId: 5; EnterTime: 520.481; steamId: 76561198271678203; name: Survivor; playerPos: 5389.82,9855.81; 
+16:37:02 | PointId: 5; nextTriggerTime: 527
+16:37:02 | PointId: 5; currentTime: 520.481
+16:37:02 | PointId: 5; Will NOT GoSpawn
+16:37:06 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:37:06 | PointId: 5; TryToCleanupLoot: none; insidersCount: 1; IsWorkingTime: true
+16:37:06 | PointId: 5; CleanSpawnedLootCount: 1
+16:37:08 | PointId: 5; ExitTime: 526.817; steamId: 76561198271678203; name: Survivor; playerPos: 5381.28,9866.74; 
+16:37:13 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:37:13 | PointId: 5; TryToCleanupLoot: yes; count: 1
+16:37:13 | PointId: 5; CleanSpawnedLootCount: 0
+16:37:30 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:37:30 | PointId: 5; EnterTime: 548.683; steamId: 76561198271678203; name: Survivor; playerPos: 5380.08,9865.91; 
+16:37:30 | PointId: 5; nextTriggerTime: 527
+16:37:30 | PointId: 5; currentTime: 548.683
+16:37:30 | PointId: 5; Will GoSpawn
+16:37:30 | PointId: 5; AlreadySpawned Loot: 0
+16:37:30 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:37:30 | PointId: 5; randSpawnLimit: 1; GetSpawnedCount: 0
+16:37:30 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:37:30 | PointId: 5; countToCreate < spawnPositions
+16:37:30 | PointId: 5; tryingCount: 1
+16:37:30 | PointId: 5; queuedCount: 1
+16:37:30 | PointId: 5; ERROR: Object 'AS50' is NOT created
+16:37:30 | PointId: 5; SpawnQueue: Completed; Spawned items: 1
+16:37:36 | PointId: 5; ExitTime: 554.182; steamId: 76561198271678203; name: Survivor; playerPos: 5381.76,9866.51; 
+16:37:38 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:37:38 | PointId: 5; EnterTime: 556.18; steamId: 76561198271678203; name: Survivor; playerPos: 5381.74,9866.44; 
+16:37:38 | PointId: 5; nextTriggerTime: 564
+16:37:38 | PointId: 5; currentTime: 556.18
+16:37:38 | PointId: 5; Will NOT GoSpawn
+16:37:41 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:37:41 | PointId: 5; TryToCleanupLoot: none; lootToCleanup: 0
+16:37:41 | PointId: 5; CleanSpawnedLootCount: 0
+16:37:45 | PointId: 5; Will TryToSpawn without leaving; insiders: 1
+16:37:45 | PointId: 5; StayInTime: 564.057; steamId: 76561198271678203; name: Survivor; playerPos: 5386.58,9860.27; 
+16:37:45 | PointId: 5; nextTriggerTime: 564
+16:37:45 | PointId: 5; currentTime: 564.057
+16:37:45 | PointId: 5; Will GoSpawn
+16:37:45 | PointId: 5; AlreadySpawned Loot: 0
+16:37:45 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:37:45 | PointId: 5; randSpawnLimit: 1; GetSpawnedCount: 0
+16:37:45 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:37:45 | PointId: 5; countToCreate < spawnPositions
+16:37:45 | PointId: 5; tryingCount: 1
+16:37:45 | PointId: 5; queuedCount: 1
+16:37:45 | PointId: 5; Spawned: BC_DELTA_Fade<f11bb370>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:37:45 | PointId: 5; SpawnQueue: Spawned; Item: BC_DELTA_Fade (1/1); Pos: <5390.479980, 0.000000, 9861.129883>
+16:37:45 | PointId: 5; SpawnQueue: Completed; Spawned items: 1
+16:38:03 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:38:03 | PointId: 5; TryToCleanupLoot: yes; count: 1
+16:38:03 | PointId: 5; CleanSpawnedLootCount: 1
+16:40:50 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:40:50 | PointId: 5; EnterTime: 748.643; steamId: 76561198271678203; name: Survivor; playerPos: 5386.82,9860.27; 
+16:40:50 | PointId: 5; nextTriggerTime: 594
+16:40:50 | PointId: 5; currentTime: 748.643
+16:40:50 | PointId: 5; Will GoSpawn
+16:40:50 | PointId: 5; AlreadySpawned Loot: 0
+16:40:50 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:40:50 | PointId: 5; randSpawnLimit: 3; GetSpawnedCount: 0
+16:40:50 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:40:50 | PointId: 5; countToCreate > spawnPositions
+16:40:50 | PointId: 5; tryingCount: 3
+16:40:50 | PointId: 5; queuedCount: 3
+16:40:50 | PointId: 5; Spawned: BC_Delta_Magazine<a769a0>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:40:50 | PointId: 5; SpawnQueue: Spawned; Item: BC_Delta_Magazine (1/3); Pos: <5390.479980, 0.000000, 9861.129883>
+16:40:50 | PointId: 5; Spawned: BC_Delta_Magazine<a74b70>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:40:50 | PointId: 5; SpawnQueue: Spawned; Item: BC_Delta_Magazine (2/3); Pos: <5390.479980, 0.000000, 9861.129883>
+16:40:50 | PointId: 5; Spawned: BC_DELTA_Fade<f11d0e50>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:40:50 | PointId: 5; SpawnQueue: Spawned; Item: BC_DELTA_Fade (3/3); Pos: <5390.479980, 0.000000, 9861.129883>
+16:40:50 | PointId: 5; SpawnQueue: Completed; Spawned items: 3
+16:41:00 | PointId: 5; Will TryToSpawn without leaving; insiders: 1
+16:41:00 | PointId: 5; StayInTime: 759.057; steamId: 76561198271678203; name: Survivor; playerPos: 5382.97,9860.82; 
+16:41:00 | PointId: 5; nextTriggerTime: 759
+16:41:00 | PointId: 5; currentTime: 759.057
+16:41:00 | PointId: 5; Will GoSpawn
+16:41:00 | PointId: 5; AlreadySpawned Loot: 3
+16:41:00 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:41:00 | PointId: 5; randSpawnLimit: 2; GetSpawnedCount: 3
+16:41:00 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:41:00 | PointId: 5; countToCreate < spawnPositions
+16:41:00 | PointId: 5; tryingCount: 2
+16:41:00 | PointId: 5; queuedCount: 2
+16:41:00 | PointId: 5; Spawned: HuntingOptic<13a4c30>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:41:00 | PointId: 5; SpawnQueue: Spawned; Item: HuntingOptic (1/2); Pos: <5390.479980, 0.000000, 9861.129883>
+16:41:00 | PointId: 5; Spawned: BC_DELTA_Fade<f11cf730>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:41:00 | PointId: 5; SpawnQueue: Spawned; Item: BC_DELTA_Fade (2/2); Pos: <5390.479980, 0.000000, 9861.129883>
+16:41:00 | PointId: 5; SpawnQueue: Completed; Spawned items: 2
+16:41:13 | PointId: 5; Will TryToSpawn without leaving; insiders: 1
+16:41:13 | PointId: 5; StayInTime: 772.057; steamId: 76561198271678203; name: Survivor; playerPos: 5390.76,9861.16; 
+16:41:13 | PointId: 5; nextTriggerTime: 772
+16:41:13 | PointId: 5; currentTime: 772.057
+16:41:13 | PointId: 5; Will GoSpawn
+16:41:13 | PointId: 5; AlreadySpawned Loot: 5
+16:41:13 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:41:13 | PointId: 5; randSpawnLimit: 2; GetSpawnedCount: 5
+16:41:13 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:41:13 | PointId: 5; countToCreate < spawnPositions
+16:41:13 | PointId: 5; tryingCount: 2
+16:41:13 | PointId: 5; queuedCount: 2
+16:41:13 | PointId: 5; ERROR: Object 'AS50' is NOT created
+16:41:13 | PointId: 5; Spawned: HuntingOptic<13a41a0>; Pos: <5390.479980, 0.000000, 9861.129883>
+16:41:13 | PointId: 5; SpawnQueue: Spawned; Item: HuntingOptic (2/2); Pos: <5390.479980, 0.000000, 9861.129883>
+16:41:13 | PointId: 5; SpawnQueue: Completed; Spawned items: 2
+16:41:16 | PointId: 5; ExitTime: 774.522; steamId: 76561198271678203; name: Survivor; playerPos: 5393.84,9855.63; 
+16:41:17 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 1
+16:41:17 | PointId: 5; EnterTime: 775.193; steamId: 76561198271678203; name: Survivor; playerPos: 5394.69,9855.73; 
+16:41:17 | PointId: 5; nextTriggerTime: 782
+16:41:17 | PointId: 5; currentTime: 775.193
+16:41:17 | PointId: 5; Will NOT GoSpawn
+16:41:21 | PointId: 5; TryToCleanupCreatures: none; creaturesToCleanup: 0
+16:41:21 | PointId: 5; TryToCleanupLoot: none; insidersCount: 1; IsWorkingTime: true
+16:41:21 | PointId: 5; CleanSpawnedLootCount: 6
+16:41:23 | PointId: 5; Will TryToSpawn without leaving; insiders: 1
+16:41:23 | PointId: 5; StayInTime: 782.057; steamId: 76561198271678203; name: Survivor; playerPos: 5395.09,9855.96; 
+16:41:23 | PointId: 5; nextTriggerTime: 782
+16:41:23 | PointId: 5; currentTime: 782.057
+16:41:23 | PointId: 5; Will GoSpawn
+16:41:23 | PointId: 5; AlreadySpawned Loot: 0
+16:41:23 | PointId: 5; spawnMin: 1; spawnMax: 3
+16:41:23 | PointId: 5; randSpawnLimit: 1; GetSpawnedCount: 0
+16:41:23 | PointId: 5; TryToProcessMappingDataObjects: 0; eventType: 2
+16:41:23 | PointId: 5; countToCreate < spawnPositions
+16:41:23 | PointId: 5; tryingCount: 1
+16:41:23 | PointId: 5; queuedCount: 1
+16:41:23 | PointId: 5; ERROR: Object 'AS50' is NOT created
+16:41:23 | PointId: 5; SpawnQueue: Completed; Spawned items: 1

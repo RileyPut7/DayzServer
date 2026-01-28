@@ -1,0 +1,593 @@
+{
+    "Settings": [				PARAMETERS
+        {
+            "Config_Version": 1.0,									DO NOT TOUCH or your configs might reset
+            "Minimum_Players": 0,									Minimum players to start KOTHs
+            "Cleanup_Radius": 5,									Cleanup radius in metres to check for old koth containers/flags on server startup and after events
+            "Cleanup_Time_After_KOTH_Finished": 300,				How long after a KOTH finishes to run the cleanup, and start timer for next KOTH
+            "KOTH_Reward_Delete_On_Cleanup": 1,						When the KOTH cleanup runs after the above time, force delete the reward crate? If disabled, crate will despawn on its own based on types.xml, or when a new KOTH spawns on top of it
+            "KOTH_Players_In_Radius_Check_Range": 200,				Before allowing a KOTH to start, make sure no players are within this distance of the spawn
+            "KOTH_Max_Simultaneous": 1,								Maximum simultaneous KOTHs to run at the same time
+            "KOTH_Simultaneous_Stagger_Time_Min": 1200,				If running simultaneous KOTHs, how long to stagger (min)
+            "KOTH_Simultaneous_Stagger_Time_Max": 1800,				If running simultaneous KOTHs, how long to stagger (max)
+            "KOTH_Start_Delay": 600,								Startup delay on server start-up
+            "KOTH_Starting_Failed_Retry_Delay": 120,				If a KOTH fails to start for any reason, wait this long before re-trying
+            "KOTH_Time_Between": 1800,								How long after cleanup before starting the next KOTH
+            "KOTH_Time_Limit": 1200,								Time limit to capture the KOTH after it's spawned in
+            "KOTH_Capture_Time": 900,								Capture time if only 1 player is on a KOTH
+            "KOTH_Spawn_Start_Delay": 120,							How long after a KOTH has spawned, before it can start being captured
+            "KOTH_Capture_Speed_Bonus_PerPlayer_PerSec": 0.25,		How many seconds bonus, per second, per extra player also capping
+            "KOTH_Capture_Speed_Bonus_PerPlayer_PerSec_Max": 2.0,	Maximum time bonus, per second, for if the above parameter is used
+            "KOTH_Flag_Lower_If_Abandoned": 1,						Start to lower the flag if it's abandoned
+            "KOTH_Do_Smoke": 1,										Do smoke effects on top of the KOTH?
+            "KOTH_Do_Fireworks_On_Win": 1,							Do fireworks on the KOTH if it's won?
+            "Map_Marker_Enabled": 1,								Enable map marker?
+            "LB_Marker_Radius": 150,								LB Master Groups - Marker Radius around KOTH flags. Set to any number, set to 0 to disable, or set to -1 if you want it to be the same as the capture radius of the KOTH
+            "Perspective_Marker_Enabled": 0,						Enable 3D Marker?
+            "Notification_Enabled": 1,								Enable notifications on spawn/start/win/loss?
+            "Logging_Enabled": 1,									Enable logging? (RECOMMENDED)
+            "Debug_QuickMode": 0,									Enable quick mode? (DEBUG)
+            "Flags": [			FLAGS ARRAY
+                "Flag_Bohemia",
+                "Flag_Chernarus",
+                "Flag_Pirates"
+            ],
+            "KOTH_Enemies": [	ENEMIES/ZOMBIES ARRAY
+                {
+                    "ClassName": "ZmbF_CitizenANormal_Beige",		Class Name
+                    "SpawnRarity": 0								Rarity to spawn - higher this number, the less likely to spawn (optional)
+                },
+                {
+                    "ClassName": "ZmbF_CitizenANormal_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_CitizenANormal_Brown",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_CitizenBSkinny",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_Clerk_Normal_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_Clerk_Normal_Green",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_Clerk_Normal_Red",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_Clerk_Normal_White",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_DoctorSkinny",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_JoggerSkinny_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_JoggerSkinny_Brown",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_JoggerSkinny_Green",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_JoggerSkinny_Red",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_JournalistNormal_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_JournalistNormal_Green",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_JournalistNormal_Red",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_JournalistNormal_White",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_NurseFat",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ParamedicNormal_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ParamedicNormal_Green",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ParamedicNormal_Red",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_PatientOld",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_PoliceWomanNormal",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ShortSkirt_beige",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ShortSkirt_black",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ShortSkirt_brown",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ShortSkirt_checks",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ShortSkirt_green",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ShortSkirt_grey",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ShortSkirt_red",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ShortSkirt_stripes",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ShortSkirt_white",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_ShortSkirt_yellow",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_SkaterYoung_Brown",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_SkaterYoung_Striped",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbF_SkaterYoung_Violet",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CitizenASkinny_Brown",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CitizenASkinny_Grey",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CitizenASkinny_Red",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CitizenBFat_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CitizenBFat_Green",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CitizenBFat_Red",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_ClerkFat_Brown",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_ClerkFat_Grey",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_ClerkFat_Khaki",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_ClerkFat_White",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CommercialPilotOld_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CommercialPilotOld_Brown",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CommercialPilotOld_Grey",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_CommercialPilotOld_Olive",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_DoctorFat",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_JacketNormal_greenchecks",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_Jacket_beige",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_Jacket_black",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_Jacket_blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_Jacket_bluechecks",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_Jacket_brown",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_Jacket_greenchecks",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_Jacket_grey",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_Jacket_khaki",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_Jacket_magenta",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_Jacket_stripes",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_JoggerSkinny_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_JoggerSkinny_Green",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_JoggerSkinny_Red",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_JournalistSkinny",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_ParamedicNormal_Black",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_ParamedicNormal_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_ParamedicNormal_Green",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_ParamedicNormal_Red",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_PatientSkinny",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_PatrolNormal_Autumn",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_PatrolNormal_Flat",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_PatrolNormal_PautRev",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_PatrolNormal_Summer",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_TerritoryNormal",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_PolicemanFat",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_PolicemanSpecForce",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_PrisonerSkinny",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_SkaterYoung_Blue",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_SkaterYoung_Brown",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_SkaterYoung_Green",
+                    "SpawnRarity": 0
+                },
+                {
+                    "ClassName": "ZmbM_SkaterYoung_Grey",
+                    "SpawnRarity": 0
+                }
+            ]
+        }
+    ],
+    "KOTHs": [		KOTHs Array
+        {
+            "Name": "Zelenogorsk Military",						Name of KOTH
+            "Reward_Position": [								Position the flag spawns and where the reward spawns if won
+                2562.699951171875,
+                193.1750030517578,
+                5117.337890625
+            ],
+            "Reward_Orientation": [								Orientation of the reward containers
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Capture_Radius": 40,								Player capture radius limit
+            "Enemies_Count": 15,								Enemies to spawn from list above
+            "Reward_Loot_Count": 6,								How many items to spawn from the loot array below
+            "Reward_Container_Classnames": [],					You can optionally specify container classnames here, they must also be listed in the containers list below
+            "Static_Objects": []								Static objects can also be spawned/removed automatically here
+        },
+        {
+            "Name": "Elektro Police Station",
+            "Reward_Position": [
+                10461.14453125,
+                5.956999778747559,
+                2258.447021484375
+            ],
+            "Reward_Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Capture_Radius": 40,
+            "Enemies_Count": 15,
+            "Reward_Loot_Count": 6,
+            "Reward_Container_Classnames": [					If you specify any container classnames, only those will spawn at the KOTH
+                "mz_KOTHchest_SupplyBox1"													If you leave it blank (no items in array), it will pick a random container from the list
+            ],
+            "Static_Objects": []
+        },
+        {
+            "Name": "Downed Helicopter",
+            "Reward_Position": [
+                144.31246948242188,
+                319.55841064453127,
+                8073.83740234375
+            ],
+            "Reward_Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Capture_Radius": 40,
+            "Enemies_Count": 15,
+            "Reward_Loot_Count": 6,
+            "Reward_Container_Classnames": [
+                "mz_KOTHchest_SupplyBox3"
+            ],
+            "Static_Objects": [
+                {
+                    "ClassName": "StaticObj_Wreck_Mi8_Crashed",			Classname of object
+                    "Scale": 1.0,										Scale
+                    "Position": [										Position....
+                        144.06399536132813,
+                        321.1470031738281,
+                        8068.35986328125
+                    ],
+                    "Rotation": [										.......
+                        -69.11962890625,
+                        0.0,
+                        -0.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "Reward_Containers": [			Reward containers need to be defined here
+        {
+            "ClassName": "mz_KOTHchest_SupplyBox1",			Class name
+            "Is_Scripted_Reward": 0				If this is set to 1 (true), the script will call the ReleaseScriptedReward(EntityAI rewardEAI) function instead of filling the container with loot from the below list
+        },															REQUIRES SCRIPT KNOWLEDGE!
+        {
+            "ClassName": "mz_KOTHchest_SupplyBox2",
+            "Is_Scripted_Reward": 0
+        },
+        {
+            "ClassName": "mz_KOTHchest_SupplyBox3",
+            "Is_Scripted_Reward": 0
+        }
+    ],
+    "Loot": [						Loot items
+        {
+            "ClassName": "FAL",									Classname of item
+            "Magazine_ClassName": "Mag_FAL_20Rnd",				If its a weapon, you can specify a magazine to attach here. DO NOT put ammo in here if it's chambered.
+            "Spawn_Chance": 100,								Spawn chance. Lower this number if you want it less likely to spawn
+            "Max_Spawnable": 2,									Maximum quantity to spawn in one KOTH (good for limiting raid mats etc)
+            "Quantity": -1,										Quantity. -1 is maximum. Otherwise, any number you wish
+            "Attach": [											Attachments to spawn on the item
+                "Fal_OeBttsck",
+                "ACOGOptic"
+            ],
+            "Extra_Items": [									If this item is spawned, it will also spawn any items in this array into the container (useful for weapon mags)
+                "Mag_FAL_20Rnd",
+                "Mag_FAL_20Rnd"
+            ],
+            "Alternatives": []									Alternatives! see below
+        },
+        {
+            "ClassName": "SVD",
+            "Magazine_ClassName": "Mag_SVD_10Rnd",
+            "Spawn_Chance": 100,
+            "Max_Spawnable": 2,
+            "Quantity": -1,
+            "Attach": [
+                "PSO1Optic"
+            ],
+            "Extra_Items": [
+                "Mag_SVD_10Rnd",
+                "Mag_SVD_10Rnd"
+            ],
+            "Alternatives": []
+        },
+        {
+            "ClassName": "PlateCarrierVest",
+            "Magazine_ClassName": "",
+            "Spawn_Chance": 100,
+            "Max_Spawnable": 2,
+            "Quantity": -1,
+            "Attach": [],
+            "Extra_Items": [],
+            "Alternatives": [									When it choses this item, if theres any alternatives defined itll spawn either the original or one of the alternatives at random
+                "PlateCarrierVest_Black",
+                "PlateCarrierVest_Camo"
+            ]
+        },
+        {
+            "ClassName": "BallisticHelmet_Green",
+            "Magazine_ClassName": "",
+            "Spawn_Chance": 100,
+            "Max_Spawnable": 2,
+            "Quantity": -1,
+            "Attach": [],
+            "Extra_Items": [],
+            "Alternatives": [
+                "BallisticHelmet_Black",
+                "BallisticHelmet_Woodland"
+            ]
+        },
+        {
+            "ClassName": "BandageDressing",
+            "Magazine_ClassName": "",
+            "Spawn_Chance": 100,
+            "Max_Spawnable": 2,
+            "Quantity": -1,
+            "Attach": [],
+            "Extra_Items": [],
+            "Alternatives": []
+        },
+        {
+            "ClassName": "PainkillerTablets",
+            "Magazine_ClassName": "",
+            "Spawn_Chance": 100,
+            "Max_Spawnable": 2,
+            "Quantity": -1,
+            "Attach": [],
+            "Extra_Items": [],
+            "Alternatives": []
+        },
+        {
+            "ClassName": "Morphine",
+            "Magazine_ClassName": "",
+            "Spawn_Chance": 100,
+            "Max_Spawnable": 2,
+            "Quantity": -1,
+            "Attach": [],
+            "Extra_Items": [],
+            "Alternatives": []
+        },
+        {
+            "ClassName": "SledgeHammer",
+            "Magazine_ClassName": "",
+            "Spawn_Chance": 100,
+            "Max_Spawnable": 2,
+            "Quantity": -1,
+            "Attach": [],
+            "Extra_Items": [],
+            "Alternatives": []
+        },
+        {
+            "ClassName": "NailBox",
+            "Magazine_ClassName": "",
+            "Spawn_Chance": 100,
+            "Max_Spawnable": 2,
+            "Quantity": -1,
+            "Attach": [],
+            "Extra_Items": [],
+            "Alternatives": []
+        },
+        {
+            "ClassName": "Hatchet",
+            "Magazine_ClassName": "",
+            "Spawn_Chance": 100,
+            "Max_Spawnable": 2,
+            "Quantity": -1,
+            "Attach": [],
+            "Extra_Items": [],
+            "Alternatives": []
+        },
+        {
+            "ClassName": "MetalPlate",
+            "Magazine_ClassName": "",
+            "Spawn_Chance": 100,
+            "Max_Spawnable": 2,
+            "Quantity": -1,
+            "Attach": [],
+            "Extra_Items": [],
+            "Alternatives": []
+        }
+    ]
+}

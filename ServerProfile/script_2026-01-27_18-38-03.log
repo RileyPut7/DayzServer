@@ -1,0 +1,237 @@
+---------------------------------------------
+Log F:\SteamLibrary\steamapps\common\DayZServer\ServerProfile\script_2026-01-27_18-38-03.log started at 27.01. 18:38:03
+
+SCRIPT       : Loaded Core (Client PBO) Version 2.4.2:stable
+SCRIPT       : Loaded Hover Loot (Client PBO) Version 1.0.2:stable
+SCRIPT       : Registered 384 temporary action enum(s), UAN==384
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\struct\lbconfigtype.c,3": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\config\loader\lbconfigmanager.c,68": FIX-ME: Syntax error
+SCRIPT    (W): @"SpawnSelect/Scripts/3_Game/dayzgame.c,14": FIX-ME: Unmatched brackets detected!
+SCRIPT    (W): @"SpawnSelect/Scripts/3_Game/dayzgame.c,15": FIX-ME: Unmatched brackets detected!
+SCRIPT    (W): @"BaseBuildingPlus/scripts/3_Game/bbpconfig.c,143": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\models\markerscacheinterface.c,5": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\models\markerscacheinterface.c,7": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\models\mapmarkerscache.c,26": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\models\mapmarkerscache.c,46": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/vanillaplusplus.c,36": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/vanillaplusplus.c,106": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/vanillaplusplus.c,118": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/vanillaplusplus.c,134": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\models\vppmapconfig.c,11": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/3_Game/json\clientmarkerscache.c,15": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\gui\helper\lbwidgetutils.c,39": FIX-ME: Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT       : Started LBLogger at: $profile:LBmaster_27_1_2026_18_38_04.log
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : DZM_Projects Map! by DaOne
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actiongivesalineself.c,44": condition with no body?
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifakself.c,42": condition with no body?
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifaktarget.c,46": condition with no body?
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarylocker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\guncase_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\icebox_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigsafe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\armoreddoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\armoreddoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\locker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallcrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\tinycrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\paragon_largegreenhouse.c,133": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallsafe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallsafe_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigtent_colorbase.c,139": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigtent_colorbase.c,144": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\container_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\container_colorbase.c,147": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\reinforceddoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\reinforceddoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,201": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,201": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,201": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,215": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,215": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,215": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,228": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,228": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,228": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,244": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,244": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,244": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,260": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,260": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/4_World/spawnselectload.c,260": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\iceceramfreezer_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\safe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\weaponslocker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\gearstand_case_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarycrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarycrate_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\compound_gate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\compound_gate_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"UnlimitedStamina/4_World/classes\staminahandler.c,3": FIX-ME: Overriding function 'Update' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\mediumcrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\dumpster_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifaktarget.c,31": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bunkerdoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bunkerdoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\graffitican_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\fridge_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\doubleguncase_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actiongivesalineself.c,32": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\paragon_greenhouse.c,133": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifakself.c,31": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,32": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,33": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,34": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,35": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,181": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,487": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth.c,10": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"UnlimitedStamina/5_Mission/missiongameplay.c,5": Missing ';' at the end of line
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\vppmapmenu.c,3": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\vppmapmenu.c,4": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\vppmapmenu.c,5": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,202": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,202": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,202": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,210": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,210": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,210": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,21": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,21": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,21": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,29": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,29": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,29": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,45": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,45": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missiongameplay.c,45": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\markerslistadapter.c,245": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\markerslistadapter.c,249": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,277": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,277": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,277": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,12": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,17": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,17": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,17": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,22": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,22": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,22": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VanillaPPMap/5_Mission/missionserver.c,37": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\missionserver.c,283": FIX-ME: Overriding function 'GetServerName' but not marked as 'override'
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_koth_config.c,434": Possible variable name conflict 'SpawnRarity'
+SCRIPT    (W): @"VanillaPPMap/5_Mission/gui\vppmapmenu.c,161": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,36": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,36": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/missionshared.c,36": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"mz_koth/Scripts/5_Mission/mz_kothevent.c,663": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"SpawnSelect/Scripts/5_Mission/spawnmenu.c,79": Possible variable name conflict 'm_Conf'
+SCRIPT       : [MerkZone KOTH] Loaded!
+SCRIPT       : [SERVER :: Vanilla++ AdminTools Plugins Registering]
+SCRIPT       : [MPG_Spawner] Logger Init
+SCRIPT       : [MPG_Spawner] Logger Create Log File
+SCRIPT       : [::FormatErrorEx] :: [INFO] :: Got hostname 'choxprac' from 'serverdz.cfg'
+SCRIPT       : [BBP] 'BBP_Settings' found, loading...
+SCRIPT       : string dirtyName = 'choxprac'
+SCRIPT       : [MPG_Spawner] Init
+SCRIPT       : [MPG_Spawner] config found, loading...
+SCRIPT       : [MPG_Spawner] Start configs validation
+SCRIPT       : [MPG_Spawner] Configs validation finished
+SCRIPT       : [MerkZone KOTH] Initialized!
+SCRIPT       : [MerkZone KOTH] Waiting for 600 seconds before running cleanup script and attempting to start first KOTH.
+SCRIPT       : [TabletHacking] OnInit
+SCRIPT       : [TabletHacking] Init
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'choxprac'
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script called!
+SCRIPT       : [MerkZone KOTH] Performing server startup cleanup!
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script successful!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "Survivor" (steamId=76561198271678203) connected to server!
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<a438ba10>
+SCRIPT       : [Permissions Manager] Admin (Survivor) (76561198271678203) Successfully Logged in!
+SCRIPT       : [MerkZone KOTH] Attempting to start new KOTH ID '1'.
+SCRIPT       : [MerkZone KOTH] Setting up default parameters for new KOTH ID '1'.
+SCRIPT       : [MerkZone KOTH] KOTH pre-start cleanup script called!
+SCRIPT       : [MerkZone KOTH] Spawning KOTH flag.
+SCRIPT       : [MerkZone KOTH] Successfully initialized new KOTH id 1! Monitoring script now running.
+SCRIPT       : [MerkZone KOTH] Spawned 0 objects.
+SCRIPT       : [MerkZone KOTH] Spawning in 15 KOTH Enemies
+SCRIPT       : [MerkZone KOTH] Spawned 15 in 15 attempts.
+SCRIPT       : [MerkZone KOTH] Successfully spawned and built KOTH flag.
+SCRIPT       : [MerkZone KOTH] KOTH failed!
+SCRIPT       : [MerkZone KOTH] KOTH is over and has reached cleanup time! Performing clean-up!
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script called!
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script is now cleaning up static objects and enemies from previous KOTH.
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script could not find any previous KOTH static object(s) for cleanup.
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_SkaterYoung_Blue' at position (<10457.144531, 5.957000, 2260.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_ParamedicNormal_Red' at position (<10460.144531, 5.957000, 2253.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_JournalistNormal_Green' at position (<10461.144531, 5.957000, 2260.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_ShortSkirt_checks' at position (<10457.144531, 5.957000, 2254.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_Jacket_stripes' at position (<10458.144531, 5.957000, 2256.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_JoggerSkinny_Red' at position (<10460.144531, 5.957000, 2256.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_ParamedicNormal_Blue' at position (<10462.144531, 5.957000, 2253.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_SkaterYoung_Blue' at position (<10465.144531, 5.957000, 2257.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_ShortSkirt_Black' at position (<10461.144531, 5.957000, 2262.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_ShortSkirt_yellow' at position (<10457.144531, 5.957000, 2256.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_ClerkFat_Grey' at position (<10463.144531, 5.957000, 2257.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_PatrolNormal_Summer' at position (<10465.144531, 5.957000, 2260.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_PoliceWomanNormal' at position (<10458.144531, 5.957000, 2259.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_SkaterYoung_Violet' at position (<10464.144531, 5.957000, 2257.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_Clerk_Normal_Red' at position (<10464.144531, 5.957000, 2257.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script successful!
+SCRIPT       : [Logout]: New player fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= with logout time 15
+SCRIPT       : Player "Survivor" (steamid=76561198271678203) initiated disconnect process...
+SCRIPT       : Player "Survivor" (steamid=76561198271678203) disconnected early from server (EXIT NOW).
+SCRIPT       : [Logout]: Player fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= finished
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<753a5110>
+SCRIPT       : [Permissions Manager] Admin (Survivor) (76561198271678203) Successfully Logged in!
+SCRIPT       : [MerkZone KOTH] Attempting to start new KOTH ID '1'.
+SCRIPT       : [MerkZone KOTH] Setting up default parameters for new KOTH ID '1'.
+SCRIPT       : [MerkZone KOTH] KOTH pre-start cleanup script called!
+SCRIPT       : [MerkZone KOTH] Spawning KOTH flag.
+SCRIPT       : [MerkZone KOTH] Successfully initialized new KOTH id 1! Monitoring script now running.
+SCRIPT       : [MerkZone KOTH] Spawned 0 objects.
+SCRIPT       : [MerkZone KOTH] Spawning in 15 KOTH Enemies
+SCRIPT       : [MerkZone KOTH] Spawned 15 in 15 attempts.
+SCRIPT       : [MerkZone KOTH] Successfully spawned and built KOTH flag.
+SCRIPT       : [MerkZone KOTH] KOTH failed!
+SCRIPT       : [MerkZone KOTH] KOTH is over and has reached cleanup time! Performing clean-up!
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script called!
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script is now cleaning up static objects and enemies from previous KOTH.
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script could not find any previous KOTH static object(s) for cleanup.
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_ShortSkirt_brown' at position (<10459.144531, 5.957000, 2256.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_ShortSkirt_stripes' at position (<10464.144531, 5.957000, 2260.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_JournalistNormal_White' at position (<10463.144531, 5.957000, 2253.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_PatrolNormal_Autumn' at position (<10463.144531, 5.957000, 2253.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_Jacket_black' at position (<10456.144531, 5.957000, 2254.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_JoggerSkinny_Red' at position (<10462.144531, 5.957000, 2261.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_SkaterYoung_Striped' at position (<10462.144531, 5.957000, 2258.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_ShortSkirt_beige' at position (<10462.144531, 5.957000, 2258.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_PolicemanSpecForce' at position (<10459.144531, 5.957000, 2262.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_Clerk_Normal_White' at position (<10464.144531, 5.957000, 2259.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_SkaterYoung_Blue' at position (<10457.144531, 5.957000, 2253.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_ClerkFat_White' at position (<10465.144531, 5.957000, 2255.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_NurseFat' at position (<10458.144531, 5.957000, 2256.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbM_SkaterYoung_Brown' at position (<10461.144531, 5.957000, 2257.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script has located previous KOTH enemy. Deleting 'ZmbF_Clerk_Normal_White' at position (<10464.144531, 5.957000, 2262.447021>).
+SCRIPT       : [MerkZone KOTH] KOTH cleanup script successful!
+SCRIPT       : [Logout]: New player fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= with logout time 15
+SCRIPT       : Player "Survivor" (steamid=76561198271678203) initiated disconnect process...
+SCRIPT       : Player "Survivor" (steamid=76561198271678203) disconnected early from server (EXIT NOW).
+SCRIPT       : [Logout]: Player fAvgr4dm7wudWWrzTfoyPGggNShoian784sFafDTmic= finished
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : ~DayZGame()

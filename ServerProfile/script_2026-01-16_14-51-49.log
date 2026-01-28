@@ -1,0 +1,61 @@
+---------------------------------------------
+Log F:\SteamLibrary\steamapps\common\DayZServer\ServerProfile\script_2026-01-16_14-51-49.log started at 16.01. 14:51:49
+
+SCRIPT       : Loaded Core (Client PBO) Version 2.4.2:stable
+SCRIPT       : Loaded Hover Loot (Client PBO) Version 1.0.2:stable
+SCRIPT       : Registered 382 temporary action enum(s), UAN==382
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\struct\lbconfigtype.c,3": FIX-ME: Expected ',' or '}', not a ';'
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\config\loader\lbconfigmanager.c,68": FIX-ME: Syntax error
+SCRIPT    (W): @"BaseBuildingPlus/scripts/3_Game/bbpconfig.c,143": FIX-ME: Unexpected statement 'ref'
+SCRIPT    (W): @"LBmaster_Core/scripts/3_Game/lbmaster_core\gui\helper\lbwidgetutils.c,39": FIX-ME: Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT       : Started LBLogger at: $profile:LBmaster_16_1_2026_14_51_50.log
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : 14:51:52.001 [EXPANSION LOG]: DayZGame<97ebd60> Start time (local time) 2026-01-16 14:51:40
+SCRIPT       : 14:51:52.001 [EXPANSION LOG]: DayZGame<97ebd60> Start time (UTC) 2026-01-16 20:51:40
+SCRIPT       : 14:51:52.001 [EXPANSION LOG]: DayZGame<97ebd60> Runtime since start (seconds) 12.404
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actiongivesalineself.c,44": condition with no body?
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifakself.c,42": condition with no body?
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifaktarget.c,46": condition with no body?
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarylocker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\guncase_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\icebox_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigsafe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\armoreddoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\armoreddoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\locker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallcrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\tinycrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\paragon_largegreenhouse.c,133": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallsafe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\smallsafe_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigtent_colorbase.c,139": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bigtent_colorbase.c,144": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\container_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\container_colorbase.c,147": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\reinforceddoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\reinforceddoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\iceceramfreezer_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\safe_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\weaponslocker_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\gearstand_case_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarycrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\militarycrate_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\compound_gate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\compound_gate_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"UnlimitedStamina/4_World/classes\staminahandler.c,3": FIX-ME: Overriding function 'Update' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\mediumcrate_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\dumpster_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifaktarget.c,31": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bunkerdoor_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\bunkerdoor_colorbase.c,148": FIX-ME: Overriding function 'CanDisplayAttachmentSlot' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\graffitican_colorbase.c,142": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\fridge_colorbase.c,167": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\doubleguncase_colorbase.c,143": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actiongivesalineself.c,32": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT    (W): @"ParagonStorage/scripts/4_World/deployablestorage\deploy_base\paragon_greenhouse.c,133": FIX-ME: Overloaded method 'CanReleaseCargo', argument name 'attachment' differs from prototype 'cargo'
+SCRIPT    (W): @"ParagonGear\scripts\4_world/entities\medical_actions\ifak\actionpgifakself.c,31": FIX-ME: Overriding function 'GetText' but not marked as 'override'
+SCRIPT       : [DayZ Expansion] ~DayZGame
+SCRIPT       : ~DayZGame()

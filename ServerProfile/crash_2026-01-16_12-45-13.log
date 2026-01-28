@@ -1,0 +1,32 @@
+---------------------------------------------
+Log F:\SteamLibrary\steamapps\common\DayZServer\ServerProfile\crash_2026-01-16_12-45-13.log started at 16.01. 12:45:38
+
+
+
+------------------------------------
+RILEYPC, 16.01 2026 12:45:38
+[EffectSound::Effect] :: [WARNING] :: Created Effect on server.
+Class:      'EffectSound'
+Function: 'Effect'
+Stack trace:
+scripts/3_Game/effect.c:76 Function Effect
+scripts/4_World/entities\itembase\tentbase\largetentbackpack.c:7 Function LargeTentBackPack
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@DabsFramework;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 13:02:11
+NULL pointer to instance
+Class:      'EffectSound'
+Function: 'SetEnableEventFrame'
+Stack trace:
+scripts/3_Game/effect.c:290 Function SetEnableEventFrame
+scripts/3_Game/effect.c:97 Function ~Effect
+scripts/3_Game/effectmanager.c:278 Function DestroyEffect
+scripts/4_World/entities\itembase\tentbase\largetentbackpack.c:12 Function ~LargeTentBackPack
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@DabsFramework;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons 

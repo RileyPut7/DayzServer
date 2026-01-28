@@ -1,0 +1,747 @@
+---------------------------------------------
+Log F:\SteamLibrary\steamapps\common\DayZServer\ServerProfile\crash_2026-01-16_15-35-40.log started at 16.01. 15:36:04
+
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:04
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:05
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:05
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:05
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:05
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:05
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:05
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:05
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:05
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:06
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:06
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:06
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:06
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:06
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:06
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:06
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:06
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:06
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:07
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:07
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:07
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:07
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:07
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:07
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:07
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:07
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:07
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:07
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:08
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:08
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:08
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:08
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:36:09
+[EntityAI::OnStoreLoad] :: [WARNING] :: Scripted variables corrupted upon "ChernarusMap".
+Entity will not be loaded correctly.
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\dayzOffline.chernarusplus\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:42:04
+NULL pointer to instance
+Class:      'SimplePartyManagerServer'
+Function: '~SimplePartyManagerServer'
+Stack trace:
+SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_manager_server.c.c:31 Function ~SimplePartyManagerServer
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:42:04
+NULL pointer to instance
+Class:      'SimplePartyMarkerManagerServer'
+Function: '~SimplePartyMarkerManagerServer'
+Stack trace:
+SimpleModParty/Game/ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simple_party_marker_manager_server.c.c:14 Function ~SimplePartyMarkerManagerServer
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 
+
+
+------------------------------------
+RILEYPC, 16.01 2026 15:42:04
+NULL pointer to instance. Variable '#return' during call 'CGame.IsClient'
+Class:      'SimplePartyBasicMapAPI'
+Function: '~SimplePartyBasicMapAPI'
+Stack trace:
+SimpleModParty/Game/basicmapintegration\ .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\simplepartybasicmapapi.c.c:45 Function ~SimplePartyBasicMapAPI
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@Dabs;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@MPG_Spawner;@FOVRevert;@VanillaPlusPlusMap;@zSpawnSelection;@NoHungerThirst;@AdventGroup-Chat-PartySystems 

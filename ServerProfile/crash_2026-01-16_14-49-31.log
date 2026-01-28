@@ -1,0 +1,13 @@
+---------------------------------------------
+Log F:\SteamLibrary\steamapps\common\DayZServer\ServerProfile\crash_2026-01-16_14-49-31.log started at 16.01. 14:49:32
+
+
+
+------------------------------------
+RILEYPC, 16.01 2026 14:49:32
+Can't compile "Game" script module!
+
+DayZExpansion/SpawnSelection/Scripts/3_Game/dayzexpansion_spawnselection\settings\expansionsettings.c(13): Unknown type 'ExpansionSettings'
+
+Runtime mode
+CLI params: config serverDZ.cfg port 2302 profiles ServerProfile dologs  adminlog  netlog  freezecheck  scrAllowFileWrite  filePatching  mod @CF;@COT;@BuilderItems;@BBP;@VPP-Admin-Tools;@ParagonGearandArmor;@ParagonStorage;@BucaWeapons;@PVPMovement;@NoFallDamage;@NoWeaponSway;@UnlimitedStamina;@HoverLoot;@MZKOTH;@DayZ-Expansion-Spawn-Selection;@MPG_Spawner 

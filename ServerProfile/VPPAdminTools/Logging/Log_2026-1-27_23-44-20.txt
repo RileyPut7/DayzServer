@@ -1,0 +1,532 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2026-1-27_23-44-20
+====================================================================================
+23:44:20 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+23:44:20 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+23:44:20 | [PermissionManager] Perm (FreeCamera) has been registered!
+23:44:20 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuItemManager) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuServerManager) has been registered!
+23:44:20 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+23:44:20 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+23:44:20 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+23:44:20 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+23:44:20 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+23:44:20 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+23:44:20 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+23:44:20 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+23:44:20 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+23:44:20 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+23:44:20 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+23:44:20 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+23:44:20 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+23:44:20 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+23:44:20 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+23:44:20 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+23:44:20 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+23:44:20 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuBansManager) has been registered!
+23:44:20 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+23:44:20 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+23:44:20 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+23:44:20 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+23:44:20 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+23:44:20 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+23:44:20 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+23:44:20 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+23:44:20 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+23:44:20 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+23:44:20 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+23:44:20 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+23:44:20 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+23:44:20 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+23:44:20 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+23:44:20 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+23:44:20 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+23:44:20 | [PermissionManager] Adding Super Admin (76561198271678203)
+23:44:20 | [PermissionManager] Loaded UserGroups.json
+23:44:20 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+23:44:20 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+23:44:20 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+23:44:20 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+23:44:20 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+23:44:20 | Building Sets Loaded: 0
+23:44:20 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+23:44:20 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+23:47:34 | Player "Survivor" (steamId=76561198271678203) connected to server!
+23:48:25 | "76561198271678203" (steamid=76561198271678203) teleported to (pos=<6894.339844, 395.190430, 11506.700195>)
+23:48:25 | "Survivor": (steamid=76561198271678203) teleported to (pos=6894.34,0,11506.7)
+23:48:37 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<7283.131836, 1245.570068, 10870.418945>)
+23:48:59 | "Survivor" (steamid=76561198271678203) toggled godmode
+23:49:1 | "Survivor" (steamid=76561198271678203) teleported to crosshair (pos=<6919.975098, 436.503448, 11426.151367>)
+23:49:8 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Triangle_Foundation" (pos=<6885.593262, 437.038269, 11428.832031>)
+23:49:10 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Triangle_Foundation" (pos=<6884.755859, 437.038055, 11424.666992>)
+23:49:11 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Triangle_Foundation" (pos=<6880.580078, 437.037842, 11425.530273>)
+23:49:12 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Triangle_Foundation" (pos=<6879.389648, 437.037628, 11427.357422>)
+23:49:13 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Triangle_Foundation" (pos=<6884.252930, 437.038055, 11432.879883>)
+23:49:15 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Triangle_Foundation" (pos=<6880.227051, 437.037842, 11431.522461>)
+23:49:16 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bfoundation" (pos=<6878.886719, 437.037628, 11435.570313>)
+23:49:17 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bfoundation" (pos=<6875.213867, 437.037415, 11428.220703>)
+23:49:19 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bfoundation" (pos=<6879.742676, 437.037628, 11421.365234>)
+23:49:20 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bfoundation" (pos=<6877.051270, 437.037415, 11416.002930>)
+23:49:21 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bfoundation" (pos=<6874.359863, 437.037201, 11410.640625>)
+23:49:22 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bfoundation" (pos=<6887.943848, 437.037842, 11421.859375>)
+23:49:24 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bfoundation" (pos=<6887.088379, 437.037842, 11436.064453>)
+23:49:25 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bfoundation" (pos=<6889.779785, 437.037628, 11441.426758>)
+23:49:26 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bfoundation" (pos=<6892.471191, 437.037415, 11446.789063>)
+23:49:31 | "Survivor" (steamid=76561198271678203) deleted object "WoodenLog" (pos=<6901.325195, 437.316223, 11423.532227>)
+23:49:32 | "Survivor" (steamid=76561198271678203) deleted object "WoodenPlank" (pos=<6898.007813, 437.384064, 11424.225586>)
+23:49:55 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_6B13_Black)
+23:50:17 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_RaidBag_Black)
+23:50:24 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_TacTec_Black)
+23:50:27 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_Tac_H_Black)
+23:50:32 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_TacPants_Black)
+23:50:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_TacticalVest_Black)
+23:50:45 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_DGunRack_Black)
+23:50:50 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_GearStand)
+23:50:57 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_GreenHouse)
+23:51:7 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_Karambit_Rainbow)
+23:51:9 | "Survivor" (steamid=76561198271678203) Spawned Item: (Paragon_KATT_Black)
+23:51:39 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Admin_Hammer)
+23:52:1 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:2 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:2 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:2 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:2 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:2 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:2 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:5 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:5 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:5 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:5 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:52:5 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:54:6 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6897.221680, 437.038483, 11435.522461>
+23:54:7 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6897.221680, 437.038483, 11435.522461>
+23:54:9 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6903.211426, 437.038696, 11435.873047>
+23:54:10 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6903.211426, 437.038696, 11435.873047>
+23:54:11 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6902.860352, 437.038483, 11441.862305>
+23:54:12 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6902.860352, 437.038483, 11441.862305>
+23:54:12 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6896.870605, 437.038269, 11441.511719>
+23:54:13 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6896.870605, 437.038269, 11441.511719>
+23:54:14 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6890.880859, 437.038055, 11441.161133>
+23:54:15 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6890.880859, 437.038055, 11441.161133>
+23:54:17 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6884.891113, 437.037842, 11440.810547>
+23:54:17 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6884.891113, 437.037842, 11440.810547>
+23:54:18 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6885.242188, 437.038055, 11434.821289>
+23:54:19 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6885.242188, 437.038055, 11434.821289>
+23:54:20 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6885.593262, 437.038269, 11428.832031>
+23:54:21 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6885.593262, 437.038269, 11428.832031>
+23:54:22 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6885.943359, 437.038055, 11422.841797>
+23:54:23 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6885.943359, 437.038055, 11422.841797>
+23:54:23 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6891.933105, 437.038269, 11423.192383>
+23:54:24 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6891.933105, 437.038269, 11423.192383>
+23:54:25 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6897.922852, 437.038483, 11423.542969>
+23:54:26 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6897.922852, 437.038483, 11423.542969>
+23:54:28 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6903.912598, 437.038696, 11423.893555>
+23:54:28 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6903.912598, 437.038696, 11423.893555>
+23:54:30 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6904.262695, 437.038483, 11417.903320>
+23:54:30 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6904.262695, 437.038483, 11417.903320>
+23:54:31 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6898.272949, 437.038269, 11417.552734>
+23:54:32 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6898.272949, 437.038269, 11417.552734>
+23:54:33 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6892.283203, 437.038055, 11417.202148>
+23:54:34 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6892.283203, 437.038055, 11417.202148>
+23:54:35 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6886.293457, 437.037842, 11416.851563>
+23:54:36 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6886.293457, 437.037842, 11416.851563>
+23:54:43 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:54:43 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:54:43 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:54:43 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:54:43 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Foundation_Kit)
+23:55:4 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6878.901367, 437.037628, 11440.459961>
+23:55:5 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6878.901367, 437.037628, 11440.459961>
+23:55:5 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6879.252441, 437.037842, 11434.470703>
+23:55:6 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6879.252441, 437.037842, 11434.470703>
+23:55:7 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6879.603516, 437.038055, 11428.481445>
+23:55:7 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6879.603516, 437.038055, 11428.481445>
+23:55:8 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6879.953613, 437.037842, 11422.491211>
+23:55:9 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6879.953613, 437.037842, 11422.491211>
+23:55:10 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6880.303711, 437.037628, 11416.500977>
+23:55:11 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6880.303711, 437.037628, 11416.500977>
+23:55:32 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:32 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:32 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:33 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:33 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:33 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:33 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:33 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:33 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:34 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:34 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:34 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:34 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:34 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:36 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:36 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:36 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:36 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:36 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:36 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:37 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:37 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:37 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:55:37 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+23:57:8 | "Survivor" (steamid=76561198271678203) toggled freecam
+23:57:17 | "Survivor" (steamid=76561198271678203) toggled freecam
+0:0:12 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6906.797852, 437.256927, 11424.062500>
+0:0:13 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6906.797852, 437.256927, 11424.062500>
+0:0:14 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6907.147949, 437.256714, 11418.072266>
+0:0:15 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6907.147949, 437.256714, 11418.072266>
+0:0:16 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6904.431641, 437.256683, 11415.018555>
+0:0:17 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6904.431641, 437.256683, 11415.018555>
+0:0:18 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6898.441895, 437.256470, 11414.667969>
+0:0:19 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6898.441895, 437.256470, 11414.667969>
+0:0:21 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6892.283203, 437.038055, 11417.202148>
+0:0:22 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6892.452148, 437.256256, 11414.317383>
+0:0:22 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6892.452148, 437.256256, 11414.317383>
+0:0:32 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6892.283203, 437.038055, 11417.202148>
+0:0:38 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6886.462402, 437.256042, 11413.966797>
+0:0:38 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6886.462402, 437.256042, 11413.966797>
+0:0:40 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6880.472656, 437.255829, 11413.616211>
+0:0:40 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6880.472656, 437.255829, 11413.616211>
+0:0:42 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6877.419434, 437.255829, 11416.332031>
+0:0:44 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6877.419434, 437.255829, 11416.332031>
+0:0:46 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6877.069336, 437.256042, 11422.322266>
+0:0:47 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6877.069336, 437.256042, 11422.322266>
+0:0:49 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6879.603516, 437.038055, 11428.481445>
+0:0:51 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6876.719238, 437.256256, 11428.312500>
+0:0:53 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6876.719238, 437.256256, 11428.312500>
+0:0:55 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6876.368164, 437.256042, 11434.301758>
+0:0:56 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6876.368164, 437.256042, 11434.301758>
+0:0:58 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6876.017090, 437.255829, 11440.291016>
+0:0:59 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6876.017090, 437.255829, 11440.291016>
+0:1:1 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6878.732422, 437.255829, 11443.344727>
+0:1:2 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6878.732422, 437.255829, 11443.344727>
+0:1:3 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6884.722168, 437.256042, 11443.695313>
+0:1:4 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6884.722168, 437.256042, 11443.695313>
+0:1:12 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6890.711914, 437.256256, 11444.045898>
+0:1:17 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6896.701660, 437.256470, 11444.396484>
+0:1:18 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6902.691406, 437.256683, 11444.747070>
+0:1:19 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6905.745605, 437.256714, 11442.031250>
+0:1:20 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6906.096680, 437.256927, 11436.041992>
+0:1:25 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6906.797852, 437.256927, 11424.062500>
+0:1:34 | "Survivor" (steamid=76561198271678203) deleted object "TreeHard_t_PiceaAbies_3f" (pos=<6966.328125, 384.426147, 11255.470703>)
+0:1:35 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bwall" (pos=<6907.147949, 437.256714, 11418.072266>)
+0:1:36 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bwall" (pos=<6904.431641, 437.256683, 11415.018555>)
+0:1:37 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bwall" (pos=<6898.441895, 437.256470, 11414.667969>)
+0:1:51 | "Survivor" (steamid=76561198271678203) deleted object "TreeSoft_t_BetulaPendula_2fb" (pos=<6950.749512, 402.668121, 11370.281250>)
+0:1:55 | "Survivor" (steamid=76561198271678203) deleted object "Land_Castle_Bastion_nolc" (pos=<6949.604980, 404.152374, 11391.448242>)
+0:1:57 | "Survivor" (steamid=76561198271678203) deleted object "Land_Castle_Bergfrit2" (pos=<6913.905762, 418.728302, 11430.704102>)
+0:1:58 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bwall" (pos=<6906.797852, 437.256927, 11424.062500>)
+0:2:11 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bwall" (pos=<6886.462402, 437.256042, 11413.966797>)
+0:2:12 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bwall" (pos=<6892.452148, 437.256256, 11414.317383>)
+0:2:13 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Bwall" (pos=<6880.472656, 437.255829, 11413.616211>)
+0:3:32 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6906.096680, 437.256927, 11436.041992>
+0:3:34 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6905.745605, 437.256714, 11442.031250>
+0:3:36 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6902.691406, 437.256683, 11444.747070>
+0:3:37 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6896.701660, 437.256470, 11444.396484>
+0:3:40 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6890.711914, 437.256256, 11444.045898>
+0:3:52 | "Survivor" (steamid=76561198271678203) Spawned Item: (Hatchet)
+0:3:53 | "Survivor" (steamid=76561198271678203) Spawned Item: (Hatchet)
+0:3:53 | "Survivor" (steamid=76561198271678203) Spawned Item: (Hatchet)
+0:4:18 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6879.603516, 437.038055, 11428.481445>
+0:4:45 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:4:45 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:4:45 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:4:46 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:4:46 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:4:46 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:4:46 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:4:47 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Hologram)
+0:5:23 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:24 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:24 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:24 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:24 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:24 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:25 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:25 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:25 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:25 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:25 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:26 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:26 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:26 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:5:26 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:12:34 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:12:34 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:12:34 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:12:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:12:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:12:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:12:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:12:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:12:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:12:36 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:12:59 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6904.262695, 440.256683, 11417.903320>
+0:13:1 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6904.262695, 440.256683, 11417.903320>
+0:13:6 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6904.262695, 440.256683, 11417.903320>
+0:13:26 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6904.262695, 443.038452, 11417.903320>
+0:13:28 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6904.262695, 443.038452, 11417.903320>
+0:13:29 | Admin "Survivor" (steamId=76561198271678203) built part t1_door at position: <6904.262695, 443.038452, 11417.903320>
+0:13:50 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Floor_Hatch" (pos=<6904.262695, 443.038452, 11417.903320>)
+0:14:9 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6904.262695, 443.038452, 11417.903320>
+0:14:11 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6904.262695, 443.038452, 11417.903320>
+0:14:14 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6904.262695, 443.038452, 11417.903320>
+0:15:19 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Hatch_Kit)
+0:15:38 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6904.431641, 440.256683, 11415.018555>
+0:15:41 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6904.431641, 440.256683, 11415.018555>
+0:15:42 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6898.441895, 440.256470, 11414.667969>
+0:15:44 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6898.441895, 440.256470, 11414.667969>
+0:15:45 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6898.272949, 440.256470, 11417.551758>
+0:15:46 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6898.272949, 440.256470, 11417.551758>
+0:15:48 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6898.272949, 440.256470, 11417.551758>
+0:15:49 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6892.283203, 440.256256, 11417.200195>
+0:15:51 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6892.283203, 440.256256, 11417.200195>
+0:15:52 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6892.283203, 440.256256, 11417.200195>
+0:15:54 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6886.293457, 440.256042, 11416.848633>
+0:15:56 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6886.293457, 440.256042, 11416.848633>
+0:16:7 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6886.293457, 440.256042, 11416.848633>
+0:16:9 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6880.303711, 440.255829, 11416.497070>
+0:16:10 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6880.303711, 440.255829, 11416.497070>
+0:16:12 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6880.303711, 440.255829, 11416.497070>
+0:16:14 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6880.303711, 443.037598, 11416.497070>
+0:16:16 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6880.303711, 443.037598, 11416.497070>
+0:16:17 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6880.303711, 443.037598, 11416.497070>
+0:16:19 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6886.293457, 443.037811, 11416.848633>
+0:16:21 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6886.293457, 443.037811, 11416.848633>
+0:16:22 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6886.293457, 443.037811, 11416.848633>
+0:16:24 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6892.283203, 443.038025, 11417.200195>
+0:16:25 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6892.283203, 443.038025, 11417.200195>
+0:16:26 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6892.283203, 443.038025, 11417.200195>
+0:16:28 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6898.272949, 443.038239, 11417.551758>
+0:16:29 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6898.272949, 443.038239, 11417.551758>
+0:16:31 | Admin "Survivor" (steamId=76561198271678203) built part stair at position: <6898.272949, 443.038239, 11417.551758>
+0:16:37 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6892.452148, 440.256256, 11414.317383>
+0:16:38 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6892.452148, 440.256256, 11414.317383>
+0:16:39 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6886.462402, 440.256042, 11413.966797>
+0:16:40 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6886.462402, 440.256042, 11413.966797>
+0:16:43 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6880.472656, 440.255829, 11413.616211>
+0:16:44 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6880.472656, 440.255829, 11413.616211>
+0:16:45 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6877.419434, 440.255829, 11416.332031>
+0:17:1 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6886.462402, 443.256042, 11413.966797>
+0:17:2 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6886.462402, 443.256042, 11413.966797>
+0:17:4 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6880.472656, 443.255829, 11413.616211>
+0:17:4 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal_2 at position: <6880.472656, 443.255829, 11413.616211>
+0:17:12 | "Survivor" (steamid=76561198271678203) deleted object "BBP_Mesh_Fence" (pos=<6880.472656, 443.255829, 11413.616211>)
+0:17:20 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:17:31 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6880.472656, 443.255829, 11413.616211>
+0:17:34 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6880.472656, 443.255829, 11413.616211>
+0:17:40 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6892.452148, 443.256256, 11414.317383>
+0:17:41 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6892.452148, 443.256256, 11414.317383>
+0:17:42 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6898.441895, 443.256470, 11414.667969>
+0:17:43 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6898.441895, 443.256470, 11414.667969>
+0:17:44 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6904.431641, 443.256683, 11415.018555>
+0:17:45 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6904.431641, 443.256683, 11415.018555>
+0:17:51 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6904.431641, 437.256683, 11415.018555>
+0:17:52 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6904.431641, 437.256683, 11415.018555>
+0:17:53 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6898.441895, 437.256470, 11414.667969>
+0:17:54 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6898.441895, 437.256470, 11414.667969>
+0:17:55 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6892.452148, 437.256256, 11414.317383>
+0:17:56 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6892.452148, 437.256256, 11414.317383>
+0:17:58 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6886.462402, 437.256042, 11413.966797>
+0:17:59 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6886.462402, 437.256042, 11413.966797>
+0:18:0 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6880.472656, 437.255829, 11413.616211>
+0:18:1 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6880.472656, 437.255829, 11413.616211>
+0:18:31 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:31 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:31 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:31 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:32 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:32 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:34 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:34 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:35 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Wall_Kit)
+0:18:39 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:39 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:40 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:40 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:40 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:40 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:40 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:40 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:40 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:41 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:41 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:41 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:41 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:41 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:41 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:42 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:42 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:42 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:42 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:42 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:18:42 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Floor_Kit)
+0:20:22 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6903.912109, 440.256042, 11423.893555>
+0:20:23 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6903.912109, 440.256042, 11423.893555>
+0:20:34 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6903.912109, 440.256042, 11423.893555>
+0:20:36 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6903.561523, 440.256256, 11429.883789>
+0:20:37 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6903.561523, 440.256256, 11429.883789>
+0:20:38 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6903.210938, 440.256042, 11435.874023>
+0:20:39 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6903.210938, 440.256042, 11435.874023>
+0:21:21 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6902.860352, 440.255829, 11441.864258>
+0:21:22 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6902.860352, 440.255829, 11441.864258>
+0:21:23 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6896.870605, 440.255615, 11441.512695>
+0:21:24 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6896.870605, 440.255615, 11441.512695>
+0:21:26 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6890.880859, 440.255402, 11441.161133>
+0:21:26 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6890.880859, 440.255402, 11441.161133>
+0:21:28 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6884.891113, 440.255188, 11440.809570>
+0:21:28 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6884.891113, 440.255188, 11440.809570>
+0:21:30 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6878.901367, 440.254974, 11440.458008>
+0:21:30 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6878.901367, 440.254974, 11440.458008>
+0:21:33 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6876.017090, 440.255829, 11440.291016>
+0:21:33 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6876.017090, 440.255829, 11440.291016>
+0:21:34 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6878.732422, 440.255829, 11443.344727>
+0:21:35 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6878.732422, 440.255829, 11443.344727>
+0:21:37 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6884.722168, 440.256042, 11443.695313>
+0:21:37 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6884.722168, 440.256042, 11443.695313>
+0:21:39 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6890.711914, 440.256256, 11444.045898>
+0:21:40 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6890.711914, 440.256256, 11444.045898>
+0:21:49 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6890.711914, 440.256256, 11444.045898>
+0:21:51 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6896.701660, 440.256470, 11444.396484>
+0:21:52 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6896.701660, 440.256470, 11444.396484>
+0:21:53 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6902.691406, 440.256683, 11444.747070>
+0:21:54 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6902.691406, 440.256683, 11444.747070>
+0:21:56 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6905.746094, 440.256927, 11442.033203>
+0:21:56 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6905.746094, 440.256927, 11442.033203>
+0:21:58 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6906.096680, 440.256927, 11436.042969>
+0:21:59 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6906.096680, 440.256927, 11436.042969>
+0:22:0 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6906.447266, 440.256927, 11430.052734>
+0:22:1 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6906.447266, 440.256927, 11430.052734>
+0:22:3 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6906.797852, 440.256927, 11424.062500>
+0:22:4 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6906.797852, 440.256927, 11424.062500>
+0:22:24 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6879.953125, 440.255615, 11422.487305>
+0:22:27 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6879.953125, 440.255615, 11422.487305>
+0:22:29 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6879.602539, 440.255402, 11428.477539>
+0:22:29 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6879.602539, 440.255402, 11428.477539>
+0:22:31 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6879.251953, 440.255188, 11434.467773>
+0:22:31 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6879.251953, 440.255188, 11434.467773>
+0:22:35 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6877.069336, 440.256042, 11422.322266>
+0:22:36 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6877.069336, 440.256042, 11422.322266>
+0:22:37 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6876.719238, 440.256256, 11428.312500>
+0:22:38 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6876.719238, 440.256256, 11428.312500>
+0:22:39 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6876.368164, 440.256042, 11434.301758>
+0:22:40 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6876.368164, 440.256042, 11434.301758>
+0:23:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:3 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:4 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:4 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:4 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:4 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:4 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:4 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:5 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:23:20 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Door_Kit)
+0:23:30 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Window_Kit)
+0:23:31 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Window_Kit)
+0:23:31 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Window_Kit)
+0:23:31 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Window_Kit)
+0:23:31 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Window_Kit)
+0:23:31 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Window_Kit)
+0:23:32 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Window_Kit)
+0:23:32 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Window_Kit)
+0:23:50 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6907.152832, 443.256683, 11418.078125>
+0:23:51 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6907.152832, 443.256683, 11418.078125>
+0:23:54 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6907.152832, 440.256683, 11418.078125>
+0:23:56 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6907.152832, 440.256683, 11418.078125>
+0:24:15 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6907.284180, 437.256683, 11415.832031>
+0:24:17 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6907.284180, 437.256683, 11415.832031>
+0:24:19 | Admin "Survivor" (steamId=76561198271678203) built part t3_door at position: <6907.284180, 437.256683, 11415.832031>
+0:24:23 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6906.797852, 437.256927, 11424.062500>
+0:24:24 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6906.797852, 437.256927, 11424.062500>
+0:24:26 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6906.447754, 437.257141, 11430.052734>
+0:24:27 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6906.447754, 437.257141, 11430.052734>
+0:24:41 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6907.064941, 437.256683, 11419.575195>
+0:24:43 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6907.064941, 437.256683, 11419.575195>
+0:25:46 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:25:46 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:25:46 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:25:46 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:25:47 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:25:47 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:25:47 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:25:47 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:25:47 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:25:47 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:25:48 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:26:33 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:26:33 | "Survivor" (steamid=76561198271678203) Spawned Item: (BBP_Mesh_Fence_Kit)
+0:27:1 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6877.419434, 440.255829, 11416.332031>
+0:27:18 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6877.418457, 443.255798, 11416.328125>
+0:27:19 | Admin "Survivor" (steamId=76561198271678203) built part t3_wall_concrete_bricks at position: <6877.418457, 443.255798, 11416.328125>
+0:28:58 | Admin "Survivor" (steamId=76561198271678203) built part frame at position: <6891.211426, 438.855194, 11435.651367>
+0:29:0 | Admin "Survivor" (steamId=76561198271678203) built part t1_wall_logs_horizontal at position: <6891.211426, 438.855194, 11435.651367>
+0:29:2 | Admin "Survivor" (steamId=76561198271678203) built part t2_metal at position: <6891.211426, 438.855194, 11435.651367>
+0:29:35 | Player "Survivor" (steamId=76561198271678203) initiated disconnect process...
+0:29:37 | Player "Survivor" (steamId=76561198271678203) disconnected early from server (EXIT NOW).

@@ -1,0 +1,21 @@
+---------------------------------------------
+Log F:\SteamLibrary\steamapps\common\DayZServer\ServerProfile\script_2026-01-16_12-05-58.log started at 16.01. 12:05:58
+
+SCRIPT       : Registered 379 temporary action enum(s), UAN==379
+SCRIPT    (W): @"BaseBuildingPlus/scripts/3_Game/bbpconfig.c,143": FIX-ME: Unexpected statement 'ref'
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : [SERVER :: Vanilla++ AdminTools Plugins Registering]
+SCRIPT       : [VPPAdminTools] credentials.txt was not found. The tool will not operate as intended. Please shutdown the server, and create a password within credentials.txt (Maximum 64 characters)
+SCRIPT       : [::FormatErrorEx] :: [INFO] :: Got hostname 'choxprac' from 'serverdz.cfg'
+SCRIPT       : [BBP] 'BBP_Settings' does not exist, creating...
+SCRIPT       : [BBP] '$profile:\BaseBuildingPlus' does not exist, creating...
+SCRIPT       : [BBP] 'BBP_Settings' found, loading...
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'choxprac'
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : ~DayZGame()
